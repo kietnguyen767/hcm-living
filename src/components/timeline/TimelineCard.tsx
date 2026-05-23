@@ -36,7 +36,7 @@ export const TimelineCard: React.FC<TimelineCardProps> = ({ event, index, onOpen
 
       {/* Content block */}
       <div className="w-full md:w-[calc(50%-2rem)] ml-12 md:ml-0 md:px-4">
-        <Card className="overflow-hidden hover:border-brand-gold group">
+        <Card className={`overflow-hidden group transition-all duration-300 ${event.isImportant ? "ring-2 ring-brand-gold animate-sparkle" : "hover:border-brand-gold"}`}>
           <CardContent className="p-6">
             {/* Year Tag */}
             <div className="inline-block px-3 py-1 rounded-full bg-brand-primary/10 text-brand-primary font-bold text-xs mb-3 select-none">
@@ -47,7 +47,7 @@ export const TimelineCard: React.FC<TimelineCardProps> = ({ event, index, onOpen
               {event.title}
             </h3>
 
-            <p className="text-brand-on-surface-variant text-sm font-sans font-light leading-relaxed mb-4">
+            <p className="line-clamp-3 text-brand-on-surface-variant text-sm font-sans font-light leading-relaxed mb-4">
               {event.description}
             </p>
 

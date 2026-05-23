@@ -16,7 +16,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, onSectionChange }
   const menuItems = [
     { id: "home", label: "Trang chủ", icon: Landmark },
     { id: "timeline", label: "Dòng lịch sử", icon: Calendar },
-    { id: "stories", label: "Tác phẩm & Di sản", icon: BookOpen },
+    { id: "stories", label: "Thành tựu & Tác phẩm", icon: BookOpen },
     { id: "quiz", label: "Trắc nghiệm", icon: BrainCircuit },
     { id: "games", label: "Trò chơi", icon: Gamepad2 },
   ];
