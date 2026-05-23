@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+@theme {
+  /* Brand Theme Colors */
+  --color-brand-surface: #fbf8f2;
+  --color-brand-surface-dim: #ebdccb;
+  --color-brand-surface-bright: #fffcf8;
+  --color-brand-lowest: #ffffff;
+  --color-brand-low: #f9f4ea;
+  --color-brand-container: #f4edd9;
+  --color-brand-high: #eadebe;
+  --color-brand-highest: #decfa8;
+  --color-brand-on-surface: #201511;
+  --color-brand-on-surface-variant: #54433d;
+  --color-brand-inverse-surface: #1e1410;
+  --color-brand-inverse-on-surface: #fbeee8;
+  --color-brand-outline: #857069;
+  --color-brand-outline-variant: #d5c0b7;
+  --color-brand-surface-tint: #ba1434;
+
+  --color-brand-primary: #a31d1d; /* Rich Flag Crimson Red */
+  --color-brand-on-primary: #ffffff;
+  --color-brand-primary-container: #800f0f;
+  --color-brand-on-primary-container: #ffdad9;
+
+  --color-brand-secondary: #c48c14; /* Antique Gold Accent */
+  --color-brand-on-secondary: #ffffff;
+  --color-brand-secondary-container: #ffdca4;
+  --color-brand-on-secondary-container: #6d4b00;
+
+  --color-brand-tertiary: #0c665f; /* Deep Jade Teal */
+  --color-brand-on-tertiary: #ffffff;
+  --color-brand-tertiary-container: #004d47;
+  --color-brand-on-tertiary-container: #b3ece6;
+
+  --color-brand-error: #ba1a1a;
+  --color-brand-on-error: #ffffff;
+  --color-brand-error-container: #ffdad6;
+  --color-brand-on-error-container: #93000a;
+
+  --color-brand-background: #fbf8f2;
+  --color-brand-on-background: #201511;
+  --color-brand-surface-variant: #decfa8;
+
+  /* Custom historical colors */
+  --color-brand-ebony: #18110e;       /* Deep Rich Ebony */
+  --color-brand-paper: #f9f5eb;       /* True Warm Antique Paper */
+  --color-brand-gold: #c48c14;        /* Polished Gold Leaf */
+
+  /* Font mappings */
+  --font-serif: var(--font-playfair), Georgia, serif;
+  --font-sans: var(--font-nunito), Arial, sans-serif;
+
+  /* Border Radii overrides */
+  --radius-sm: 0.5rem;
+  --radius-DEFAULT: 1rem;
+  --radius-md: 1.5rem;
+  --radius-lg: 2rem;
+  --radius-xl: 3rem;
+}
+
+body {
+  background: radial-gradient(circle at 50% 20%, #fffdfa 0%, #f4eee1 100%);
+  color: var(--color-brand-on-surface);
+  font-family: var(--font-sans);
+}
+
+/* Custom background texture utility for historical feel */
+.gold-dust-texture {
+  background-image: radial-gradient(circle, rgba(196, 140, 20, 0.08) 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+/* Page scroll progress bar styling */
+.history-scroll-indicator {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 4px;
+  background-color: var(--color-brand-gold);
+  z-index: 50;
+}
+
+/* Premium historical parchment texture layout overlays */
+.parchment-border {
+  border: 1px solid var(--color-brand-outline-variant);
+  box-shadow: 0 4px 20px rgba(24, 17, 14, 0.03), inset 0 0 40px rgba(196, 140, 20, 0.02);
+}
+
+.parchment-border:hover {
+  border-color: var(--color-brand-gold);
+  box-shadow: 0 8px 30px rgba(196, 140, 20, 0.08), inset 0 0 20px rgba(196, 140, 20, 0.05);
+}
