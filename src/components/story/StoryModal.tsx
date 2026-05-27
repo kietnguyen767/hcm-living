@@ -3,8 +3,7 @@
 import * as React from "react";
 import { Story } from "@/data/storiesData";
 import { Modal } from "@/components/ui/modal";
-import { AudioPlayer } from "./AudioPlayer";
-import { Calendar, User, Clock, Tag, ExternalLink, Link2 } from "lucide-react";
+import { Calendar, User, Tag, ExternalLink, Link2 } from "lucide-react";
 import { formatDate } from "@/lib/utils";
 
 interface StoryModalProps {
@@ -50,10 +49,6 @@ export const StoryModal: React.FC<StoryModalProps> = ({ story, isOpen, onClose }
               <Calendar className="h-4 w-4 text-brand-gold" />
               <span>Ngày viết: {formatDate(story.date)}</span>
             </div>
-            <div className="flex items-center gap-2">
-              <Clock className="h-4 w-4 text-brand-gold" />
-              <span>Độ dài: {story.readTime}</span>
-            </div>
           </div>
 
           {/* Tags */}
@@ -72,9 +67,6 @@ export const StoryModal: React.FC<StoryModalProps> = ({ story, isOpen, onClose }
 
         {/* Right Column: Content */}
         <div className="w-full md:w-3/5 flex flex-col gap-6">
-          {/* Audio Narration Player */}
-          <AudioPlayer textToNarrate={story.content} title={story.title} />
-
           {/* Story Content */}
           <div className="text-brand-paper/90 text-[17px] leading-8 font-serif whitespace-pre-wrap px-2">
             {story.content}
@@ -88,7 +80,7 @@ export const StoryModal: React.FC<StoryModalProps> = ({ story, isOpen, onClose }
                   <Link2 className="h-4 w-4" />
                   <span>Nguồn tham khảo</span>
                 </button>
-                
+
                 {/* Bubble */}
                 <div className="absolute bottom-[calc(100%+0.5rem)] right-0 w-64 bg-brand-surface rounded-lg shadow-[0_4px_20px_rgba(0,0,0,0.5)] border border-brand-gold/30 p-3 z-50 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
                   {/* Triangle pointer */}

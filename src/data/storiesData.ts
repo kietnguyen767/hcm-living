@@ -5,8 +5,6 @@ export interface Story {
   content: string;
   author: string;
   date: string;
-  readTime: string;
-  audioUrl?: string;
   imageUrl?: string;
   referenceLinks?: { title: string; url: string }[];
   tags: string[];
@@ -23,13 +21,12 @@ export const stories: Story[] = [
     content: `Thành tựu vĩ đại nhất của Chủ tịch Hồ Chí Minh là lãnh đạo thành công cuộc Cách mạng Tháng Tám năm 1945 và trực tiếp soạn thảo, đọc bản Tuyên ngôn Độc lập vào ngày 2/9/1945. Sự kiện này đã đánh dấu mốc son chói lọi trong lịch sử dân tộc, chấm dứt hàng nghìn năm phong kiến và hơn 80 năm đô hộ của thực dân Pháp. Nước Việt Nam Dân chủ Cộng hòa ra đời, mở ra một kỷ nguyên mới - kỷ nguyên độc lập, tự do và chủ nghĩa xã hội.`,
     author: "Lịch sử ghi nhận",
     date: "1945-09-02",
-    readTime: "3 phút",
     tags: ["Thành tựu vĩ đại", "Lịch sử"],
     isImportant: true,
-    imageUrl: "hhttps://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_l%E1%BB%8Bch_s%E1%BB%AD_Kim_Li%C3%AAn",
+    imageUrl: "https://cdn.thuvienphapluat.vn/uploads/laodongtienluong/20230301/LLT/25-08-24/Hinh-1581.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://thuvienphapluat.vn/lao-dong-tien-luong/ai-la-nguoi-khai-sinh-ra-nuoc-viet-nam-dan-chu-cong-hoa-nguoi-lao-dong-duoc-nghi-le-2-9-2024-3-ngay-29428.html" }
     ],
     category: "achievement"
   },
@@ -40,13 +37,12 @@ export const stories: Story[] = [
     content: `Năm 1930, trước sự chia rẽ của các tổ chức cộng sản trong nước, Hồ Chí Minh (lúc bấy giờ là Nguyễn Ái Quốc) đã với tư cách là phái viên của Quốc tế Cộng sản, trực tiếp thống nhất các tổ chức cộng sản để thành lập Đảng Cộng sản Việt Nam. Đến năm 1941, Người tiếp tục thành lập Mặt trận Việt Minh nhằm tập hợp rộng rãi sức mạnh toàn dân tộc. Đây là những tổ chức đóng vai trò nòng cốt, dẫn dắt nhân dân Việt Nam đi từ thắng lợi này đến thắng lợi khác.`,
     author: "Lịch sử ghi nhận",
     date: "1930-02-03",
-    readTime: "3 phút",
     tags: ["Thành tựu vĩ đại", "Đảng", "Tổ chức"],
     isImportant: true,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Sang+Lap+Dang",
+    imageUrl: "https://file3.qdnd.vn/data/images/0/2016/05/18/tuanson/18052016son141.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://www.qdnd.vn/chinh-tri/cac-van-de/mat-tran-viet-minh-va-tu-tuong-dai-doan-ket-cua-chu-tich-ho-chi-minh-474462" }
     ],
     category: "achievement"
   },
@@ -57,13 +53,12 @@ export const stories: Story[] = [
     content: `Trong suốt cuộc đời hoạt động cách mạng, Hồ Chí Minh là linh hồn của các cuộc kháng chiến vệ quốc vĩ đại. Người đã trực tiếp lãnh đạo toàn dân tiến hành cuộc kháng chiến trường kỳ chống thực dân Pháp, đi đến thắng lợi lừng lẫy năm châu chấn động địa cầu tại Điện Biên Phủ (1954). Trong cuộc kháng chiến chống Mỹ, dù tuổi cao sức yếu, Người vẫn là ngọn cờ đoàn kết toàn dân, vạch ra đường lối chiến lược và truyền ngọn lửa quyết tâm "Không có gì quý hơn độc lập tự do".`,
     author: "Lịch sử ghi nhận",
     date: "1946-1969",
-    readTime: "3 phút",
     tags: ["Thành tựu vĩ đại", "Kháng chiến", "Quân sự"],
     isImportant: false,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Lanh+Dao+Khang+Chien",
+    imageUrl: "https://file3.qdnd.vn/data/images/0/2024/10/01/upload_2077/dbp.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://www.qdnd.vn/vung-buoc-duoi-quan-ky-quyet-thang/nghe-thuat-quan-su/chien-dich-dien-bien-phu-13-3-7-5-1954-ket-thuc-cuoc-khang-chien-chong-thuc-dan-phap-va-can-thiep-my-796824" }
     ],
     category: "achievement"
   },
@@ -74,13 +69,12 @@ export const stories: Story[] = [
     content: `Ông là vị nguyên thủ quốc gia đảm nhiệm những chức vụ quan trọng nhất trong những giai đoạn đất nước khó khăn: Chủ tịch nước (1945–1969), Thủ tướng Chính phủ (1945–1955), và là người duy nhất trong lịch sử Đảng Cộng sản Việt Nam nắm giữ chức vụ Chủ tịch Đảng (1951–1969). Sự kiên định và tài lãnh đạo kiệt xuất của Người đã chèo lái con thuyền cách mạng Việt Nam vượt qua bao thác ghềnh nguy hiểm.`,
     author: "Lịch sử ghi nhận",
     date: "1945-1969",
-    readTime: "2 phút",
     tags: ["Thành tựu vĩ đại", "Lãnh đạo"],
     isImportant: false,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Chuc+Vu+Trong+Trach",
+    imageUrl: "https://bcp.cdnchinhphu.vn/thumb_w/777/334894974524682240/2022/8/29/e4-16617410965231509364760.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://baochinhphu.vn/chu-tich-ho-chi-minh-nguoi-lam-ra-lich-su-102220829094931695.htm" }
     ],
     category: "achievement"
   },
@@ -91,13 +85,12 @@ export const stories: Story[] = [
     content: `Tầm vóc của ông vượt ra khỏi biên giới quốc gia. Tạp chí TIME (Mỹ) đã bình chọn ông là một trong 100 nhân vật có ảnh hưởng lớn nhất thế kỷ XX. Đặc biệt, nhân kỷ niệm 100 năm ngày sinh của ông, Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc (UNESCO) đã ra nghị quyết vinh danh ông là "Anh hùng giải phóng dân tộc và Danh nhân văn hóa kiệt xuất của Việt Nam", khẳng định những đóng góp to lớn của Người đối với sự nghiệp đấu tranh chung của nhân loại.`,
     author: "Lịch sử ghi nhận",
     date: "1990",
-    readTime: "2 phút",
     tags: ["Thành tựu vĩ đại", "Quốc tế", "Văn hóa"],
     isImportant: false,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Vinh+Danh+Quoc+Te",
+    imageUrl: "https://cdn.nbtv.vn/upload/news/9_2022/3_1_14024902092022.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://nbtv.vn/ho-chi-minh-anh-hung-giai-phong-dan-toc-va-nha-van-hoa-kiet-xuat-cua-viet-nam-44422.html" }
     ],
     category: "achievement"
   },
@@ -114,13 +107,12 @@ Bản Tuyên ngôn bắt đầu bằng những chân lý bất hủ trích từ 
 Bản Tuyên ngôn không chỉ là một văn kiện pháp lý đanh thép lên án tội ác của thực dân Pháp và phát xít Nhật đối với nhân dân ta, mà còn là lời công bố đầy tự hào về chủ quyền dân tộc. Văn kiện này được giới chuyên môn đánh giá sánh ngang với các bản tuyên ngôn vĩ đại trong lịch sử Việt Nam như Nam quốc sơn hà và Bình Ngô đại cáo.`,
     author: "Hồ Chí Minh",
     date: "1945-09-02",
-    readTime: "5 phút",
     tags: ["Tác phẩm", "Chính trị", "Tuyên ngôn"],
     isImportant: true,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Tuyen+Ngon+Doc+Lap",
+    imageUrl: "https://file3.qdnd.vn/data/images/0/2025/08/17/upload_2085/chu%20tic%20ho%20chi%20minh.jpg?dpi=150&quality=100&w=870",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://www.qdnd.vn/chinh-tri/cac-van-de/vai-tro-cua-truyen-thong-trong-lan-toa-gia-tri-tuyen-ngon-doc-lap-841812" }
     ],
     category: "work"
   },
@@ -135,13 +127,12 @@ Mở đầu cuốn sách, Nguyễn Ái Quốc đã xác định rõ mục đích
 "Đường kách mệnh" chính là kim chỉ nam vạch ra đường lối cách mạng đúng đắn cho cách mạng Việt Nam, chuẩn bị đầy đủ về mặt lý luận và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam vào năm 1930. Cuốn sách đã được công nhận là Bảo vật quốc gia của Việt Nam.`,
     author: "Nguyễn Ái Quốc",
     date: "1927-01-01",
-    readTime: "4 phút",
     tags: ["Tác phẩm", "Lý luận", "Lịch sử"],
     isImportant: true,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Duong+Kach+Menh",
+    imageUrl: "https://nghiencuulichsu.com/wp-content/uploads/2013/09/duong_kmenh.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://nghiencuulichsu.com/2013/09/25/duong-kach-menh-cua-ho-chi-minh/" }
     ],
     category: "work"
   },
@@ -156,13 +147,12 @@ Trong Di chúc, điều đầu tiên Bác dặn dò là về Đảng: "Trước 
 Bác cũng dành sự quan tâm đặc biệt đến nhân dân lao động, thanh niên, và việc tái thiết đất nước sau chiến tranh. Cuối cùng, Bác gửi lời chào và tình yêu thương vô hạn: "Cuối cùng, tôi để lại muôn vàn tình thân yêu cho toàn dân, toàn Đảng, cho toàn thể bộ đội, cho các cháu thanh niên và nhi đồng." Bản di chúc không chỉ có ý nghĩa lịch sử sâu sắc mà còn định hướng cho sự phát triển của đất nước trên con đường hòa bình, độc lập và tiến bộ xã hội.`,
     author: "Hồ Chí Minh",
     date: "1969-09-02",
-    readTime: "6 phút",
     tags: ["Tác phẩm", "Tâm nguyện", "Đảng viên"],
     isImportant: true,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Di+Chuc",
+    imageUrl: "https://phapluat.tuoitrethudo.vn/stores/news_dataimages/vuthihuyen/082019/25/16/di-chuc-cua-bac-ho-duoc-luu-giu-bao-quan-nhu-the-nao-35-.7751.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://www.qdnd.vn/chinh-tri/tiep-lua-truyen-thong/di-chuc-chu-tich-ho-chi-minh-ngon-co-doan-ket-dan-dat-toan-dan-toc-di-toi-tuong-lai-tuoi-sang-bai-1-tai-lieu-tuyet-doi-bi-mat-791071" }
     ],
     category: "work"
   },
@@ -173,13 +163,12 @@ Bác cũng dành sự quan tâm đặc biệt đến nhân dân lao động, tha
     content: `Được xuất bản lần đầu tiên tại Paris bằng tiếng Pháp, "Bản án chế độ thực dân Pháp" (Le Procès de la colonisation française) là một bản cáo trạng đanh thép tố cáo những tội ác dã man, tàn bạo của chủ nghĩa thực dân Pháp đối với nhân dân các nước thuộc địa, đặc biệt là ở Đông Dương. Tác phẩm đã thức tỉnh lương tri của nhân dân thế giới và thúc đẩy phong trào đấu tranh giải phóng dân tộc của các nước bị áp bức.`,
     author: "Nguyễn Ái Quốc",
     date: "1925",
-    readTime: "3 phút",
     tags: ["Tác phẩm", "Chính trị", "Phê phán"],
     isImportant: false,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Ban+An+CD+Thuc+Dan",
+    imageUrl: "https://www.nxbtre.com.vn/Images/Book/NXBTreStoryFull_12.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://baotanglichsu.vn/vi/Articles/1002/73331/sach-ban-an-che-djo-thuc-dan-phap-le-proces-de-la-colonisation-francaise-luu-giu-tai-bao-tang-lich-su-quoc-gia.html" }
     ],
     category: "work"
   },
@@ -190,13 +179,12 @@ Bác cũng dành sự quan tâm đặc biệt đến nhân dân lao động, tha
     content: `Ngày 19/12/1946, trước sự bội ước và dã tâm xâm lược nước ta một lần nữa của thực dân Pháp, Chủ tịch Hồ Chí Minh đã ra Lời kêu gọi toàn quốc kháng chiến. Câu nói bất hủ "Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ" đã trở thành lời hiệu triệu linh thiêng, khơi dậy tinh thần yêu nước mãnh liệt của toàn thể dân tộc Việt Nam, mở đầu cho cuộc kháng chiến trường kỳ gian khổ nhưng tất thắng.`,
     author: "Hồ Chí Minh",
     date: "1946-12-19",
-    readTime: "2 phút",
     tags: ["Tác phẩm", "Văn kiện", "Lịch sử"],
     isImportant: false,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Loi+Keu+Goi",
+    imageUrl: "https://baovinhlong.com.vn/file/e7837c027f6ecd14017ffa4e5f2a0e34/dataimages/201602/original/images1459881_A13_1_1_opt.jpeg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://baovinhlong.com.vn/chinh-tri/201602/loi-keu-goi-toan-quoc-khang-chien-tieng-goi-cuu-nuoc-2665055/" }
     ],
     category: "work"
   },
@@ -211,13 +199,12 @@ Tập thơ gồm 133 bài thơ tứ tuyệt, phản ánh một cách chân thự
 Nhiều bài thơ như "Ngắm trăng" (Vọng nguyệt), "Chiều tối" (Mộ), "Mới ra tù tập leo núi" thể hiện tình yêu thiên nhiên mãnh liệt và phong thái ung dung tự tại của Người. Tập thơ đã được dịch ra nhiều thứ tiếng trên thế giới, được các nhà phê bình văn học đánh giá cao về giá trị nghệ thuật chữ Hán và giá trị nhân văn cao cả.`,
     author: "Hồ Chí Minh",
     date: "1943-09-10",
-    readTime: "5 phút",
     tags: ["Tác phẩm", "Thơ ca", "Nghệ thuật"],
     isImportant: true,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Nhat+Ky+Trong+Tu",
+    imageUrl: "https://btgdv.cantho.gov.vn/uploads/news/2023_05/19-5-bia.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://btgdv.cantho.gov.vn/vi/news/sang-tac-bien-khao/ra-mat-cuon-sach-nhat-ky-trong-tu-1048.html" }
     ],
     category: "work"
   },
@@ -228,13 +215,12 @@ Nhiều bài thơ như "Ngắm trăng" (Vọng nguyệt), "Chiều tối" (Mộ)
     content: `Ngoài các tác phẩm lý luận chính trị, Hồ Chí Minh còn là một ngòi bút sắc sảo trong mảng văn học châm biếm. Trong thời gian hoạt động tại Pháp, Người đã viết nhiều truyện ngắn và kịch đăng trên các báo "Nhân đạo" (L'Humanité) và "Người cùng khổ" (Le Paria) để đả kích chính quyền thực dân và phong kiến tay sai. Các tác phẩm tiêu biểu như vở kịch "Con rồng tre" (1922), truyện ngắn "Pari" (1922), "Vi hành" (1923), và "Những trò lố hay là Va-ren và Phan Bội Châu" (1925) đã thể hiện ngòi bút trào phúng thông minh và sắc bén của Người.`,
     author: "Nguyễn Ái Quốc",
     date: "1922-1925",
-    readTime: "4 phút",
     tags: ["Tác phẩm", "Truyện ngắn", "Kịch"],
     isImportant: false,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Truyen+Ngan",
+    imageUrl: "https://file3.qdnd.vn/data/images/0/2025/06/09/upload_2201/bao%20chi%20cach%20mang.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://www.qdnd.vn/dien-dan-100-nam-bao-chi-dong-hanh-cung-dan-toc/bao-chi-cach-mang-viet-nam-giai-doan-1925-1945-luc-luong-chu-luc-tien-phong-vu-khi-sac-ben-trong-cong-tac-tu-tuong-van-hoa-cua-dang-831973" }
     ],
     category: "work"
   }

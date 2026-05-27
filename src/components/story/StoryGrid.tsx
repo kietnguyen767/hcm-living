@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { User, Clock, ArrowRight } from "lucide-react";
+import { User, ArrowRight } from "lucide-react";
 import { Story, stories } from "@/data/storiesData";
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -48,10 +48,6 @@ export const StoryGrid: React.FC = () => {
           <span className="flex items-center gap-1">
             <User className="h-3 w-3 text-brand-gold" />
             {story.author}
-          </span>
-          <span className="flex items-center gap-1">
-            <Clock className="h-3 w-3 text-brand-gold" />
-            {story.readTime}
           </span>
         </div>
         <CardTitle className="group-hover:text-brand-primary transition-colors duration-200">
