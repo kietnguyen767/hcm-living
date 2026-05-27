@@ -1,6 +1,6 @@
 import * as React from "react";
 import Image from "next/image";
-import { Landmark, Mail, Phone, MapPin } from "lucide-react";
+import { Landmark, MessageCircle, Phone, MapPin } from "lucide-react";
 
 export const Footer: React.FC = () => {
   return (
@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
                 <Image src="/logo.png" alt="HCM Logo" fill className="object-contain p-0.5" sizes="32px" />
               </div>
               <span className="text-md font-bold font-serif tracking-tight text-brand-paper">
-                HCM: Ký Ức Đời Người
+                HCM: ký Ức Sống Động
               </span>
             </div>
             <p className="text-sm leading-relaxed text-brand-outline-variant/70 font-light">
@@ -28,15 +28,15 @@ export const Footer: React.FC = () => {
             <ul className="space-y-2.5 text-sm text-brand-outline-variant/70 font-light">
               <li className="flex items-center gap-2.5">
                 <MapPin className="h-4 w-4 text-brand-gold shrink-0" />
-                <span>Thành phố Hồ Chí Minh, Việt Nam</span>
+                <span>Phường Quy Nhơn,Tỉnh Gia Lai, Việt Nam</span>
               </li>
               <li className="flex items-center gap-2.5">
-                <Mail className="h-4 w-4 text-brand-gold shrink-0" />
-                <span>lienhe@hcmkyucdoinguoi.vn</span>
+                <MessageCircle className="h-4 w-4 text-brand-gold shrink-0" />
+                <span>Liên hệ tại FB: Ký Ức Sống Động</span>
               </li>
               <li className="flex items-center gap-2.5">
                 <Phone className="h-4 w-4 text-brand-gold shrink-0" />
-                <span>+84 (028) 3829 0000</span>
+                <span>+84 (035) 9971224</span>
               </li>
             </ul>
           </div>
@@ -51,7 +51,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-brand-outline/20 mt-8 pt-8 text-center text-xs text-brand-outline-variant/40 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p>© {new Date().getFullYear()} HCM: Ký Ức Đời Người. Phát triển cho cộng đồng nghiên cứu lịch sử.</p>
+          <p>© {new Date().getFullYear()} HCM: Ký Ức Sống Động. Phát triển cho cộng đồng nghiên cứu lịch sử.</p>
           <div className="flex gap-4">
             <a href="#" className="hover:text-brand-gold transition-colors">Điều khoản</a>
             <a href="#" className="hover:text-brand-gold transition-colors">Chính sách bảo mật</a>

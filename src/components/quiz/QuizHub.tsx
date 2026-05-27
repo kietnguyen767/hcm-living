@@ -18,9 +18,8 @@ export const QuizHub: React.FC<QuizHubProps> = ({ onGoToTimeline }) => {
   const [finalCorrectCount, setFinalCorrectCount] = React.useState(0);
 
   // Initialize and shuffle quiz questions
-  const startQuiz = () => {
-    // Pick 5 random questions for a dynamic quiz experience, or use all questions
-    const shuffled = shuffleArray(quizQuestions).slice(0, 5);
+  const startQuiz = (count: number) => {
+    const shuffled = shuffleArray(quizQuestions).slice(0, count);
     setQuestions(shuffled);
     setStep("play");
   };
@@ -40,7 +39,7 @@ export const QuizHub: React.FC<QuizHubProps> = ({ onGoToTimeline }) => {
   return (
     <div className="container mx-auto px-4 py-12 max-w-4xl">
       {step === "start" && (
-        <QuizStart onStart={startQuiz} questionCount={5} />
+        <QuizStart onStart={startQuiz} />
       )}
       
       {step === "play" && (

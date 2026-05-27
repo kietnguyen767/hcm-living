@@ -3,11 +3,10 @@ import { BrainCircuit, Play, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 interface QuizStartProps {
-  onStart: () => void;
-  questionCount: number;
+  onStart: (count: number) => void;
 }
 
-export const QuizStart: React.FC<QuizStartProps> = ({ onStart, questionCount }) => {
+export const QuizStart: React.FC<QuizStartProps> = ({ onStart }) => {
   return (
     <div className="flex flex-col items-center justify-center text-center p-8 bg-brand-paper border border-brand-outline/35 rounded-2xl max-w-2xl mx-auto shadow-sm shadow-[#1a0f0a]/5">
       <div className="flex h-16 w-16 items-center justify-center rounded-full bg-brand-secondary/10 border border-brand-gold/25 text-brand-secondary mb-6 shadow-md shadow-brand-secondary/5 animate-pulse">
@@ -27,11 +26,11 @@ export const QuizStart: React.FC<QuizStartProps> = ({ onStart, questionCount }) 
         <h4 className="text-brand-secondary font-bold text-xs uppercase tracking-widest mb-2">Quy định và cách tính điểm:</h4>
         <div className="flex items-start gap-3 text-sm text-brand-on-surface-variant font-light">
           <CheckCircle className="h-5 w-5 text-brand-gold mt-0.5 shrink-0" />
-          <span>Tổng số câu hỏi: <strong className="text-brand-on-surface">{questionCount} câu hỏi</strong> trắc nghiệm.</span>
+          <span>Số lượng câu hỏi thay đổi theo <strong>độ khó</strong> (5, 10 hoặc 15 câu).</span>
         </div>
         <div className="flex items-start gap-3 text-sm text-brand-on-surface-variant font-light">
           <CheckCircle className="h-5 w-5 text-brand-gold mt-0.5 shrink-0" />
-          <span>Mỗi câu trả lời đúng được cộng <strong className="text-brand-on-surface">10 điểm</strong>. Không trừ điểm khi sai.</span>
+          <span>Mỗi câu trả lời đúng được cộng <strong className="text-brand-on-surface">10 điểm</strong>. Không trừ điểm khi sai. Câu hỏi được xáo trộn ngẫu nhiên mỗi lần chơi.</span>
         </div>
         <div className="flex items-start gap-3 text-sm text-brand-on-surface-variant font-light">
           <CheckCircle className="h-5 w-5 text-brand-gold mt-0.5 shrink-0" />
@@ -39,14 +38,20 @@ export const QuizStart: React.FC<QuizStartProps> = ({ onStart, questionCount }) 
         </div>
       </div>
 
-      <Button
-        onClick={onStart}
-        size="lg"
-        className="flex items-center gap-2 group cursor-pointer"
-      >
-        Bắt đầu Trắc nghiệm
-        <Play className="h-4.5 w-4.5 transition-transform group-hover:scale-110" />
-      </Button>
+      <div className="flex flex-col sm:flex-row gap-4 justify-center w-full">
+        <Button onClick={() => onStart(5)} size="lg" className="flex items-center gap-2 group cursor-pointer bg-emerald-600 hover:bg-emerald-700 text-white">
+          Dễ (5 Câu)
+          <Play className="h-4 w-4 transition-transform group-hover:scale-110" />
+        </Button>
+        <Button onClick={() => onStart(10)} size="lg" className="flex items-center gap-2 group cursor-pointer bg-amber-600 hover:bg-amber-700 text-white">
+          Trung bình (10 Câu)
+          <Play className="h-4 w-4 transition-transform group-hover:scale-110" />
+        </Button>
+        <Button onClick={() => onStart(15)} size="lg" className="flex items-center gap-2 group cursor-pointer bg-rose-600 hover:bg-rose-700 text-white">
+          Khó (15 Câu)
+          <Play className="h-4 w-4 transition-transform group-hover:scale-110" />
+        </Button>
+      </div>
     </div>
   );
 };
