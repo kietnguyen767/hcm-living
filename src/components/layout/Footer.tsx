@@ -1,4 +1,5 @@
 import * as React from "react";
+import Image from "next/image";
 import { Landmark, Mail, Phone, MapPin } from "lucide-react";
 
 export const Footer: React.FC = () => {
@@ -9,8 +10,8 @@ export const Footer: React.FC = () => {
           {/* Brand Info */}
           <div className="flex flex-col space-y-4">
             <div className="flex items-center gap-2">
-              <div className="flex h-8 w-8 items-center justify-center rounded-full bg-brand-primary text-white shadow-md">
-                <Landmark className="h-4 w-4" />
+              <div className="relative flex h-8 w-8 items-center justify-center rounded-full bg-white overflow-hidden shadow-md">
+                <Image src="/logo.png" alt="HCM Logo" fill className="object-contain p-0.5" sizes="32px" />
               </div>
               <span className="text-md font-bold font-serif tracking-tight text-brand-paper">
                 HCM: Ký Ức Đời Người

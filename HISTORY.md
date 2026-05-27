@@ -10,7 +10,7 @@
 
 *   ⭐ **5/6/1911**: Dưới cái tên Văn Ba, người thanh niên trẻ tuổi lên chiếc tàu buôn Đô đốc Latouche-Tréville từ Bến Nhà Rồng, chính thức rời tổ quốc ra đi tìm đường cứu nước.
 *   ⭐ **18/6/1919**: Lấy tên là Nguyễn Ái Quốc, ông thay mặt những người Việt Nam yêu nước gửi bản Yêu sách 8 điểm tới Hội nghị Versailles (Pháp) đòi quyền bình đẳng, tự do. Cùng năm này, ông gia nhập Đảng Xã hội Pháp.
-*   ⭐ **Năm 1920**: Đây là bước ngoặt lý tưởng khi ông đọc được *Luận cương* của Lenin, từ đó hoàn toàn tin tưởng vào chủ nghĩa cộng sản và trở thành một trong những người tham gia sáng lập Đảng Cộng sản Pháp.
+*   ⭐ **Năm 1920**: Đây là     bước ngoặt lý tưởng khi ông đọc được *Luận cương* của Lenin, từ đó hoàn toàn tin tưởng vào chủ nghĩa cộng sản và trở thành một trong những người tham gia sáng lập Đảng Cộng sản Pháp.
 *   **Năm 1924 - 1925**: Ông đến Quảng Châu (Trung Quốc), thành lập *Việt Nam Thanh niên Cách mạng Đồng chí Hội* để truyền bá chủ nghĩa Marx-Lenin vào trong nước.
 *   ⭐ **3/2/1930**: Nhằm giải quyết mâu thuẫn giữa các tổ chức cộng sản, ông đã chủ trì hội nghị tại Hồng Kông để thống nhất và chính thức thành lập Đảng Cộng sản Việt Nam. 
 *   **Năm 1931 - 1933**: Ông bị nhà cầm quyền Hồng Kông bắt giam dưới bí danh Tống Văn Sơ, sau đó được luật sư Loseby cứu thoát và bí mật sang Liên Xô.

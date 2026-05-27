@@ -1,6 +1,7 @@
 "use client";
 
 import * as React from "react";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { Menu, X, Landmark, Calendar, BookOpen, BrainCircuit, Gamepad2 } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -29,8 +30,8 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, onSectionChange }
           className="flex items-center gap-2.5 cursor-pointer select-none"
           onClick={() => onSectionChange("home")}
         >
-          <div className="flex h-9 w-9 items-center justify-center rounded-full bg-brand-primary text-white shadow-md shadow-brand-primary/20">
-            <Landmark className="h-4.5 w-4.5" />
+          <div className="relative flex h-9 w-9 items-center justify-center rounded-full overflow-hidden bg-white shadow-md shadow-brand-primary/20">
+            <Image src="/logo.png" alt="HCM Logo" fill className="object-contain p-1" sizes="36px" />
           </div>
           <span className="text-xl font-bold font-serif tracking-tight text-brand-primary">
             HCM: Ký Ức Đời Người
