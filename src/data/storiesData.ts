@@ -26,7 +26,7 @@ export const stories: Story[] = [
     readTime: "3 phút",
     tags: ["Thành tựu vĩ đại", "Lịch sử"],
     isImportant: true,
-    imageUrl: "https://placehold.co/800x400/18110e/c48c14?text=Khai+Sinh+VNDCCH",
+    imageUrl: "hhttps://vi.wikipedia.org/wiki/Khu_di_t%C3%ADch_l%E1%BB%8Bch_s%E1%BB%AD_Kim_Li%C3%AAn",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
       { title: "Tài liệu lưu trữ quốc gia", url: "#" }
