@@ -10,6 +10,7 @@ import { TimelineList } from "@/components/timeline/TimelineList";
 import { StoryGrid } from "@/components/story/StoryGrid";
 import { QuizHub } from "@/components/quiz/QuizHub";
 import { GameHub } from "@/components/game/GameHub";
+import { Chatbot } from "@/components/chatbot/Chatbot";
 
 export default function Page() {
   const [activeSection, setActiveSection] = React.useState<string>("home");
@@ -65,6 +66,9 @@ export default function Page() {
 
       {/* Footer */}
       <Footer />
+
+      {/* Chatbot Floating Widget */}
+      <Chatbot />
     </div>
   );
 }
