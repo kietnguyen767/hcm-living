@@ -16,7 +16,7 @@ const nunito = Nunito_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "HCM: KÝ ỨC SỐNG ĐỘNG - Di sản Chủ tịch Hồ Chí Minh",
+  title: "HCM: Ký Ức Sống Động - Di sản Chủ tịch Hồ Chí Minh",
   description: "Dự án văn hóa số giới thiệu sinh động về cuộc đời cứu nước vĩ đại, sự nghiệp cách mạng và các tác phẩm thơ văn, lý luận bất hủ của Chủ tịch Hồ Chí Minh.",
   keywords: ["Chủ tịch Hồ Chí Minh", "Bác Hồ", "Di sản Hồ Chí Minh", "Tác phẩm Hồ Chí Minh", "Lịch sử Việt Nam", "Trắc nghiệm lịch sử"],
 };

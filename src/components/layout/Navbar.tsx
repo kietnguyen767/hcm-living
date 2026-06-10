@@ -34,7 +34,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, onSectionChange }
             <Image src="/logo.png" alt="HCM Logo" fill className="object-contain p-1" sizes="36px" />
           </div>
           <span className="text-xl font-bold font-serif tracking-tight text-brand-primary">
-            HCM: KÝ ỨC SỐNG ĐỘNG
+            HCM: Ký Ức Sống Động
           </span>
         </div>
 
