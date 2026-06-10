@@ -22,7 +22,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://mediacdn.vinhlong.dcs.vn/media/2026/02/26/69a0326a0c2be6034921367e_crop_455_636866985569091309_hasthumb.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Sinh ra tại làng Hoàng Trù (quê ngoại) và lớn lên tại làng Kim Liên (quê nội).",
@@ -40,7 +40,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://media-cdn-v2.laodong.vn/storage/newsportal/2021/5/19/910893/Bac-Ho-18.jpg?w=800&h=420&crop=auto&scale=both",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Sống trong môi trường kinh thành, chứng kiến nỗi thống khổ của người dân lao động.",
@@ -57,7 +57,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://bna.1cdn.vn/2024/05/31/than_mau_bac_11.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Trải qua nỗi đau mất mẹ và em trai khi còn rất nhỏ.",
@@ -74,7 +74,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://bna.1cdn.vn/2024/06/12/truong-quoc-hoc-hue-dau-the-ky-xx.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Tiếp thu kiến thức tân học và nâng cao tinh thần dân tộc.",
@@ -92,7 +92,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://lalago.vn/wp-content/uploads/2025/05/Truong-Duc-Thanh-7.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Truyền lửa lòng yêu nước và thể dục cho học sinh trường Dục Thanh.",
@@ -110,7 +110,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://ulis.vnu.edu.vn/files/uploads/2024/05/bac-di-tim-duong-cuu-nuoc.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -129,7 +129,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://baotanghochiminh.vn/pic/Customer/image00_637585327229311227_HasThumb.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Tìm hiểu cuộc Cách mạng Mỹ và quyền con người.",
@@ -146,7 +146,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://file3.qdnd.vn/data/images/0/2021/06/04/vuhuyen/3152020huyen30pg.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Học hỏi về phong trào công nhân ở một cường quốc tư bản lớn.",
@@ -163,7 +163,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-j_X7xOUtajJuWhNKV3OxrtJEmOezf1PGA&s",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Bắt đầu sử dụng ngòi bút viết báo để lên án chủ nghĩa thực dân."
@@ -179,7 +179,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://baotanglichsuquocgia.vn/DataFiles/Uploaded/image/data%20Hung/nguyen%20ai%20quoc/3.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -198,7 +198,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/052025/nguyen-ai-quoc_20250518093415.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -216,7 +216,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbJdtNAYzRe1DeTBEQSho5vuOPBM1vwefaw&s",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Mở rộng mặt trận đấu tranh chống chủ nghĩa đế quốc.",
@@ -233,7 +233,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://hochiminh.vn/upload/3000001/20251024/e2dfa7b196ea37c6ce13c72ae8f92f6aBH.310_resize.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Sử dụng báo chí làm vũ khí sắc bén tố cáo thực dân.",
@@ -250,7 +250,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://nhavanphamthangvu.wordpress.com/wp-content/uploads/2016/06/13335875_835484869891384_6901869845217679308_n.jpg?w=300&h=231",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Được đào tạo chính quy về chủ nghĩa Mác-Lênin.",
@@ -267,7 +267,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://ngaymoionline.com.vn/stores/news_dataimages/2024/062024/12/16/in_article/picture320240612161814.jpg?rt=20240612161817",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Bắt đầu trực tiếp huấn luyện cán bộ cách mạng Việt Nam ngay sát biên giới."
@@ -283,7 +283,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://file3.qdnd.vn/data/images/0/2025/01/06/upload_2058/33.jpg?dpi=150&quality=100&w=870",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Mở các lớp huấn luyện chính trị cho thanh niên.",
@@ -300,7 +300,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://nghiencuulichsu.com/wp-content/uploads/2013/09/duong_kmenh.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Đường Kách mệnh vạch ra kim chỉ nam cho cách mạng.",
@@ -317,7 +317,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://cdnmedia.baotintuc.vn/Upload/3qVxwVtNEPp6Wp9kkF77g/files/2021/06/05/thai-lan-050621.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Xây dựng cơ sở cách mạng trong cộng đồng kiều bào.",
@@ -334,7 +334,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://cdn2.baodongthap.vn/image/ckeditor/2026/20260130/files/h1.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -352,7 +352,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://tccs.1cdn.vn/2026/02/12/ct-4(1).jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Vượt qua âm mưu giao nộp cho thực dân Pháp.",
@@ -369,7 +369,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://baotanglichsu.vn/DataFiles/Uploaded/image/DATA%20HUONG/TIN%20NAM%202014/TIN%20THANG%206/Nguyen%20Ai%20Quoc%20bi%20bat%20o%20Hong%20Kong/2.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Vượt qua giai đoạn bị hiểu lầm về đường lối chính trị.",
@@ -386,7 +386,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://baoquocte.vn/stores/news_dataimages/2026/012026/23/08/thieu-ta-ho-quang-o-trung-quoc-20260123085236.webp?rt=202605201354",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Tiến sát gần biên giới Việt-Trung để chuẩn bị về nước.",
@@ -403,7 +403,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://file3.qdnd.vn/data/images/0/2022/01/07/tvtuongvy/mat%20tran%20lien%20viet.jpg?dpi=150&mode=crop&anchor=topcenter&quality=100&w=500",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -421,7 +421,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://videonvsk.vnanet.vn//MediaUpload/Video/2023/09/12/tdls-btl-1545-tdls-10-9-2023-nhat-ky-trong-tu-nhung-van-tho-bay-tren-doi-canh-tu-do-hd-12-17-19-40.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Bị giải qua hơn 30 nhà giam của 13 huyện.",
@@ -438,7 +438,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/styles/large/public/2025-08/bac_ho_tai_tan_trao_1.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Ra lệnh Tổng khởi nghĩa giành chính quyền trên cả nước."
@@ -454,7 +454,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85qw2C0KRBKnQBA75Ou7Y58GUFetX52aqCA&s",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -472,7 +472,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://mic.mediacdn.vn/Upload/TinTuc/20160517-m2.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Tổ chức Tổng tuyển cử đầu tiên (6/1/1946).",
@@ -489,7 +489,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://baotanglichsuquocgia.vn/DataFiles/News/Tintuc_cgs_vn_2016121517h19m46s.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -507,7 +507,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://special.nhandan.vn/chien-dich-bien-gioi/assets/gBopFZGmww/8-1920x1080.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Tạo cục diện mới cho cuộc kháng chiến chống Pháp."
@@ -523,7 +523,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://file3.qdnd.vn/data/images/0/2025/01/27/upload_2081/dai_hoi_ii-09_52_50_538.gif?w=400",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Hoàn thiện đường lối kháng chiến và kiến quốc."
@@ -539,7 +539,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Victory_in_Battle_of_Dien_Bien_Phu.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -557,7 +557,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXlRe7YaQu4v2s0SCwQhiSxJPcjIP84BjMA&s",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Khởi sự công cuộc sửa sai từ tháng 2/1956.",
@@ -574,7 +574,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://tennguoidepnhat.net/wp-content/uploads/2012/01/51.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Củng cố tình đoàn kết trong khối Xã hội Chủ nghĩa."
@@ -590,7 +590,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://special.nhandan.vn/Mot_so_thanh_tuu_ve_phat_trien_kinh-te_xa_hoi_cua_tinh_Quang_Ninh_tu_1963_nay/assets/IqnkR1nuvp/bac-ho-ve-tham-an-tet-at-ty-nam-1965-voi-quan-va-dan-quang-ninh-800x707.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Sang Trung Quốc trị liệu nhiều lần.",
@@ -607,7 +607,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://baotanglichsu.vn/DataFiles/Uploaded/image/data%20Hung/thang%207%20nam%202016/17-7-1966/2.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
@@ -624,7 +624,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://file.qdnd.vn/data/old_img/phucthang/2009/8/11/110809Thang19.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     details: [
       "Bài thơ 'Toàn thắng ắt về ta' được phát trên sóng phát thanh."
@@ -640,7 +640,7 @@ export const timelineEvents: TimelineEvent[] = [
     imageUrl: "https://tapchidongnama.vn/wp-content/uploads/2023/09/304791449_1106245826947812_2230113752442030834_n-e1693622666810.jpg",
     referenceLinks: [
       { title: "Nguồn tham khảo Wikipedia", url: "https://vi.wikipedia.org/wiki/Hồ_Chí_Minh" },
-      { title: "Tài liệu lưu trữ quốc gia", url: "#" }
+      { title: "Tài liệu tham khảo", url: "https://bvhttdl.gov.vn/cuoc-doi-va-su-nghiep-cach-mang-ve-vang-cua-chu-tich-ho-chi-minh-20201026145330541.htm" }
     ],
     isImportant: true,
     details: [
