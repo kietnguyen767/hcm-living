@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
                 <Image src="/logo.png" alt="HCM Logo" fill className="object-contain p-0.5" sizes="32px" />
               </div>
               <span className="text-md font-bold font-serif tracking-tight text-brand-paper">
-                HCM: ký Ức Sống Động
+                Ký Ức Sống Động
               </span>
             </div>
             <p className="text-sm leading-relaxed text-brand-outline-variant/70 font-light">
@@ -51,7 +51,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-brand-outline/20 mt-8 pt-8 text-center text-xs text-brand-outline-variant/40 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p>© {new Date().getFullYear()} HCM: Ký Ức Sống Động. Phát triển cho cộng đồng nghiên cứu lịch sử.</p>
+          <p>© {new Date().getFullYear()} Ký Ức Sống Động. Phát triển cho cộng đồng nghiên cứu lịch sử.</p>
           <div className="flex gap-4">
             <a href="#" className="hover:text-brand-gold transition-colors">Điều khoản</a>
             <a href="#" className="hover:text-brand-gold transition-colors">Chính sách bảo mật</a>

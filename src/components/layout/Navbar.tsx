@@ -26,7 +26,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, onSectionChange }
     <header className="sticky top-0 z-40 w-full border-b border-brand-outline-variant/30 bg-brand-surface/80 backdrop-blur-md">
       <div className="container mx-auto flex h-16 items-center justify-between px-4 sm:px-6 lg:px-8 max-w-[1200px]">
         {/* Logo */}
-        <div 
+        <div
           className="flex items-center gap-2.5 cursor-pointer select-none"
           onClick={() => onSectionChange("home")}
         >
@@ -34,7 +34,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, onSectionChange }
             <Image src="/logo.png" alt="HCM Logo" fill className="object-contain p-1" sizes="36px" />
           </div>
           <span className="text-xl font-bold font-serif tracking-tight text-brand-primary">
-            HCM: Ký Ức Sống Động
+            Ký Ức Sống Động
           </span>
         </div>
 
@@ -95,8 +95,8 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, onSectionChange }
                   }}
                   className={cn(
                     "flex items-center gap-3 rounded-xl px-4 py-3 text-sm font-bold uppercase tracking-wider transition-colors w-full cursor-pointer",
-                    isActive 
-                      ? "bg-brand-primary/10 text-brand-primary border border-brand-primary/20" 
+                    isActive
+                      ? "bg-brand-primary/10 text-brand-primary border border-brand-primary/20"
                       : "text-brand-on-surface-variant hover:bg-brand-container hover:text-brand-on-surface border border-transparent"
                   )}
                 >
