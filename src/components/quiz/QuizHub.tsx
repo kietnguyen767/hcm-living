@@ -5,6 +5,7 @@ import { quizQuestions, QuizQuestion } from "@/data/quizData";
 import { QuizStart } from "./QuizStart";
 import { QuizPlay } from "./QuizPlay";
 import { QuizResult } from "./QuizResult";
+import { QuizReview } from "./QuizReview";
 import { shuffleArray } from "@/lib/utils";
 
 interface QuizHubProps {
@@ -12,7 +13,7 @@ interface QuizHubProps {
 }
 
 export const QuizHub: React.FC<QuizHubProps> = ({ onGoToTimeline }) => {
-  const [step, setStep] = React.useState<"start" | "play" | "result">("start");
+  const [step, setStep] = React.useState<"start" | "play" | "result" | "review">("start");
   const [questions, setQuestions] = React.useState<QuizQuestion[]>([]);
   const [finalScore, setFinalScore] = React.useState(0);
   const [finalCorrectCount, setFinalCorrectCount] = React.useState(0);
@@ -37,9 +38,13 @@ export const QuizHub: React.FC<QuizHubProps> = ({ onGoToTimeline }) => {
   };
 
   return (
-    <div className="container mx-auto px-4 py-12 max-w-4xl">
+    <div className="w-full max-w-[1500px] mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
       {step === "start" && (
-        <QuizStart onStart={startQuiz} />
+        <QuizStart onStart={startQuiz} onReview={() => setStep("review")} />
+      )}
+      
+      {step === "review" && (
+        <QuizReview onBack={() => setStep("start")} />
       )}
       
       {step === "play" && (

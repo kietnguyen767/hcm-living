@@ -77,7 +77,8 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onSectionChange }) => 
         className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full border border-brand-primary/20 bg-brand-primary/5 text-brand-primary text-[10px] font-bold uppercase tracking-widest mb-6"
       >
         <Landmark className="h-3.5 w-3.5" />
-        Dự án bảo tồn văn hóa số
+        Bảo tồn ký ức về Người
+
       </motion.div>
 
       {/* Main Heading - Playfair Display Serif */}
