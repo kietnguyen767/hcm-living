@@ -100,7 +100,7 @@ export const QuizReview: React.FC<QuizReviewProps> = ({ onBack }) => {
                   </h3>
                   <div className="pl-2 sm:pl-4 space-y-2 mb-4 border-l-2 border-brand-outline/30 flex-1">
                     {q.options.map((opt, oIdx) => {
-                      const isCorrect = oIdx === q.correctAnswer;
+                      const isCorrect = q.correctAnswer.includes(oIdx);
                       return (
                         <div key={oIdx} className={`flex items-start gap-2 text-sm ${isCorrect ? 'text-brand-tertiary font-bold' : 'text-brand-on-surface-variant'}`}>
                           {isCorrect ? <Check className="h-4 w-4 shrink-0 mt-0.5 text-brand-tertiary" /> : <div className="w-4 shrink-0" />}
@@ -159,7 +159,7 @@ export const QuizReview: React.FC<QuizReviewProps> = ({ onBack }) => {
                     
                     <div className="space-y-4 pl-4 sm:pl-6 border-l-4 border-brand-tertiary/30">
                       {q.options.map((opt, oIdx) => {
-                        const isCorrect = oIdx === q.correctAnswer;
+                        const isCorrect = q.correctAnswer.includes(oIdx);
                         return (
                           <div key={oIdx} className={`flex items-start gap-4 text-lg ${isCorrect ? 'text-brand-tertiary font-bold' : 'text-brand-on-surface-variant'}`}>
                             {isCorrect ? <Check className="h-6 w-6 shrink-0 mt-0.5 text-brand-tertiary" /> : <div className="w-6 shrink-0" />}

@@ -35,14 +35,14 @@ for (let i = 0; i < lines.length; i++) {
   }
 
   // Match Answer: **Đáp án: X** *(Explanation)*
-  const ansMatch = line.match(/^\*\*Đáp án:\s+([A-D])\*\*(.*)$/);
+  const ansMatch = line.match(/^\*\*Đáp án:\s+([A-D](?:,\s*[A-D])*)\*\*(.*)$/);
   if (ansMatch && currentQuestion) {
-    const ansLetter = ansMatch[1];
-    const explainText = ansMatch[2].trim();
+    const ansLetters = ansMatch[1].split(',').map(s => s.trim());
+    const explainText = ansMatch[2] ? ansMatch[2].trim() : "";
     
     // Map A -> 0, B -> 1, C -> 2, D -> 3
-    const ansIndex = ansLetter.charCodeAt(0) - 65;
-    currentQuestion.correctAnswer = ansIndex;
+    const ansIndices = ansLetters.map(letter => letter.charCodeAt(0) - 65);
+    currentQuestion.correctAnswer = ansIndices;
     
     // Extract explanation if present, e.g. *(Ghi chú: ...)*
     if (explainText) {
@@ -66,7 +66,7 @@ let tsOutput = `export interface QuizQuestion {
   id: string;
   question: string;
   options: string[];
-  correctAnswer: number; // 0-based index
+  correctAnswer: number[]; // Array of 0-based indices
   explanation: string;
   points: number;
 }
@@ -78,7 +78,7 @@ questions.forEach(q => {
     id: ${JSON.stringify(q.id)},
     question: ${JSON.stringify(q.question)},
     options: ${JSON.stringify(q.options)},
-    correctAnswer: ${q.correctAnswer},
+    correctAnswer: ${JSON.stringify(q.correctAnswer)},
     explanation: ${JSON.stringify(q.explanation)},
     points: ${q.points}
   },\n`;

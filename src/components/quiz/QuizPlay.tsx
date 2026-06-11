@@ -14,13 +14,36 @@ interface QuizPlayProps {
 
 export const QuizPlay: React.FC<QuizPlayProps> = ({ questions, onFinish }) => {
   const [currentIndex, setCurrentIndex] = React.useState(0);
-  const [answers, setAnswers] = React.useState<Record<number, number>>({});
+  const [answers, setAnswers] = React.useState<Record<number, number[]>>({});
+  const [submitted, setSubmitted] = React.useState<Record<number, boolean>>({});
 
   const currentQuestion = questions[currentIndex];
 
+  const arraysEqual = (a: number[], b: number[]) => JSON.stringify([...a].sort()) === JSON.stringify([...b].sort());
+
   const handleOptionSelect = (optionIdx: number) => {
-    if (answers[currentIndex] !== undefined) return;
-    setAnswers((prev) => ({ ...prev, [currentIndex]: optionIdx }));
+    if (submitted[currentIndex]) return;
+    
+    const isMultiple = currentQuestion.correctAnswer.length > 1;
+    if (isMultiple) {
+      setAnswers((prev) => {
+        const curr = prev[currentIndex] || [];
+        if (curr.includes(optionIdx)) {
+          return { ...prev, [currentIndex]: curr.filter(i => i !== optionIdx) };
+        } else {
+          return { ...prev, [currentIndex]: [...curr, optionIdx].sort() };
+        }
+      });
+    } else {
+      setAnswers((prev) => ({ ...prev, [currentIndex]: [optionIdx] }));
+      setSubmitted((prev) => ({ ...prev, [currentIndex]: true }));
+    }
+  };
+
+  const handleConfirmMultiple = () => {
+    if ((answers[currentIndex] || []).length > 0) {
+      setSubmitted((prev) => ({ ...prev, [currentIndex]: true }));
+    }
   };
 
   const handleNext = () => {
@@ -33,7 +56,7 @@ export const QuizPlay: React.FC<QuizPlayProps> = ({ questions, onFinish }) => {
     let finalScore = 0;
     let correctCount = 0;
     questions.forEach((q, idx) => {
-      if (answers[idx] === q.correctAnswer) {
+      if (submitted[idx] && arraysEqual(answers[idx] || [], q.correctAnswer)) {
         finalScore += q.points;
         correctCount += 1;
       }
@@ -41,11 +64,11 @@ export const QuizPlay: React.FC<QuizPlayProps> = ({ questions, onFinish }) => {
     onFinish(finalScore, correctCount);
   };
 
-  const isCurrentAnswered = answers[currentIndex] !== undefined;
-  const currentSelectedOption = answers[currentIndex];
+  const isCurrentAnswered = submitted[currentIndex];
+  const currentSelectedOptions = answers[currentIndex] || [];
 
   const currentScore = questions.reduce((acc, q, idx) => {
-    if (answers[idx] === q.correctAnswer) {
+    if (submitted[idx] && arraysEqual(answers[idx] || [], q.correctAnswer)) {
       return acc + q.points;
     }
     return acc;
@@ -61,8 +84,8 @@ export const QuizPlay: React.FC<QuizPlayProps> = ({ questions, onFinish }) => {
         <div className="overflow-y-auto pr-2 mb-6 scrollbar-thin scrollbar-thumb-brand-outline/50 scrollbar-track-transparent max-h-[300px] lg:max-h-[420px]">
           <div className="grid grid-cols-5 gap-2">
             {questions.map((_, idx) => {
-              const isAnswered = answers[idx] !== undefined;
-              const isCorrect = isAnswered && answers[idx] === questions[idx].correctAnswer;
+              const isAnswered = submitted[idx];
+              const isCorrect = isAnswered && arraysEqual(answers[idx] || [], questions[idx].correctAnswer);
               const isActive = currentIndex === idx;
 
               let btnStyle = "border-brand-outline/40 text-brand-on-surface-variant hover:bg-brand-surface";
@@ -140,8 +163,8 @@ export const QuizPlay: React.FC<QuizPlayProps> = ({ questions, onFinish }) => {
         {/* Options Grid */}
         <div className="grid grid-cols-1 gap-4 mb-8">
           {currentQuestion.options.map((option, idx) => {
-            const isSelected = currentSelectedOption === idx;
-            const isCorrectAnswer = idx === currentQuestion.correctAnswer;
+            const isSelected = currentSelectedOptions.includes(idx);
+            const isCorrectAnswer = currentQuestion.correctAnswer.includes(idx);
 
             let optionStyle = "bg-brand-surface border-brand-outline-variant/50 text-brand-on-surface-variant hover:border-brand-gold hover:text-brand-on-surface";
             let icon = null;
@@ -156,6 +179,9 @@ export const QuizPlay: React.FC<QuizPlayProps> = ({ questions, onFinish }) => {
               } else {
                 optionStyle = "bg-brand-surface border-brand-outline-variant/20 text-brand-outline/60 opacity-50";
               }
+            } else if (isSelected) {
+              optionStyle = "bg-brand-primary/10 border-brand-primary text-brand-primary font-bold";
+              icon = <Check className="h-5 w-5 text-brand-primary shrink-0" />;
             }
 
             return (
@@ -175,6 +201,18 @@ export const QuizPlay: React.FC<QuizPlayProps> = ({ questions, onFinish }) => {
             );
           })}
         </div>
+
+        {!isCurrentAnswered && currentQuestion.correctAnswer.length > 1 && (
+          <div className="flex justify-end mb-8">
+            <Button
+              onClick={handleConfirmMultiple}
+              disabled={currentSelectedOptions.length === 0}
+              className="bg-brand-primary hover:bg-brand-primary/90 text-white"
+            >
+              Chốt đáp án
+            </Button>
+          </div>
+        )}
 
         {/* Explanation & Next controls */}
         <AnimatePresence mode="wait">

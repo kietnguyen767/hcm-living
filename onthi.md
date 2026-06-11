@@ -1120,3 +1120,354 @@ B. Phan Bội Châu
 C. Hoàng Hoa Thám
 D. Nguyễn Thái Học
 **Đáp án: C**
+
+**Câu 163:** Theo Hồ Chí Minh, tư tưởng, văn hóa phương Tây lấy điều gì làm tiêu chuẩn? Tư tưởng, văn hóa phương Tây lấy:
+A. Cảm tính và khoa học làm tiêu chuẩn
+B. Lý tính và khoa học là tiêu chuẩn
+C. Tư duy và sự phản biện làm tiêu chuẩn
+D. Sự phản biện và lý tính làm tiêu chuẩn
+**Đáp án: B**
+
+**Câu 164:** Một trong những nội dung cơ bản của bản Yêu sách gồm tám điểm của Nguyễn Ái Quốc gửi đến Hội nghị Vecxay (Pháp) là gì?
+A. Đòi quyền tự do, dân chủ tối thiểu cho nhân dân
+B. Đòi quyền tự trị của dân tộc
+C. Đòi quyền độc lập dân tộc
+D. Đòi quyền bình đẳng
+**Đáp án: A**
+
+**Câu 165:** Giải phóng dân tộc theo tư tưởng Hồ Chí Minh, xét về thực chất là:
+A. Đánh đổ ách áp bức, thống trị của đế quốc, thực dân giành độc lập dân tộc
+B. Giành độc lập dân tộc, hình thành nhà nước dân tộc độc lập
+C. Tự do lựa chọn con đường phát triển của dân tộc phù hợp với xu thế phát triển của thời đại
+D. Giành được ruộng đất cho dân cày nghèo, đảm bảo đời sống nông dân ấm no
+**Đáp án: A**
+
+**Câu 166:** Theo Hồ Chí Minh, vấn đề cốt lõi của cách mạng giải phóng dân tộc thuộc địa là:
+A. Vấn đề tự do dân chủ
+B. Vấn đề độc lập dân tộc
+C. Vấn đề ruộng đất
+**Đáp án: B**
+
+**Câu 167:** Một trong những yêu cầu cơ bản trong nghiên cứu tư tưởng Hồ Chí Minh là:
+A. Đảm bảo thống nhất giữ nguyên tắc tính đảng và tính khoa học
+B. Đảm bảo thống nhất tính thực chứng và duy lý
+C. Đảm bảo thống nhất giữa khoa học và thực tiễn
+D. Đảm bảo tính thực chứng và khoa học
+**Đáp án: A**
+
+**Câu 168:** Một trong những giá trị của văn hoá phương Tây được Hồ Chí Minh tiếp thu để hình thành tư tưởng của mình là gì?
+A. Tư tưởng văn hoá dân chủ và cách mạng của cách mạng Pháp và cách mạng Mỹ
+B. Những mặt tích cực của Nho Giáo
+C. Kinh tế chính trị cổ điển Anh
+D. Triết học cổ điển Đức
+**Đáp án: A**
+
+**Câu 169:** Theo Hồ Chí Minh, Đảng lãnh đạo Nhà nước bằng các phương thức nào?
+A. Đường lối, chủ trương, chính sách
+B. Qua các tổ chức Đảng, đảng viên trong bộ máy nhà nước
+C. Bằng công tác kiểm tra
+D. Qua các tổ chức tôn giáo, giáo phái
+**Đáp án: A, B, C**
+
+**Câu 170:** Con đường quá độ lên chủ nghĩa xã hội ở nước ta được Hồ Chí Minh vạch ra dựa trên:
+A. Chủ nghĩa Mác-Lênin
+B. Chủ nghĩa dân chủ
+C. Sự kết hợp giữa chủ nghĩa Mác-lênin với thực tế Việt Nam
+**Đáp án: C**
+
+**Câu 171:** Hồ Chí Minh dạy học ở trường Dục Thanh - Phan Thiết trong khoảng thời gian nào? *(Nguyễn Tất Thành ở Mỹ vào khoảng thời gian nào => 1912-1913, ở Anh => 1913-1917)*
+A. Năm 1909-1910
+B. Năm 1909-1911
+C. Năm 1908-1909
+D. Năm 1910-1911
+**Đáp án: D**
+
+**Câu 172:** Đâu là đáp án sai khi nói về nguồn gốc tư tưởng đạo đức của Hồ Chí Minh?
+A. Kế thừa tư tưởng đạo đức phương Đông và tinh hoa văn hóa nhân loại
+B. Đạo đức từ trên trời sa xuống
+C. Truyền thống đạo đức của dân tộc Việt Nam
+D. Tư tưởng đạo đức và những tấm gương đạo đức của Mác, Ăngghen, Lênin
+**Đáp án: B**
+
+**Câu 173:** Khái niệm tư tưởng Hồ Chí Minh mà Đại hội IX (2001) nêu lên KHÔNG bao gồm nội dung nào sau đây?
+A. Bản chất cách mạng và khoa học của tư tưởng Hồ Chí Minh
+B. Nguồn gốc tư tưởng, lý luận của tư tưởng Hồ Chí Minh
+C. Nội dung tư tưởng Hồ Chí Minh
+D. Kết cấu tư tưởng Hồ Chí Minh
+**Đáp án: D**
+
+**Câu 174:** Chọn phương án trả lời đúng với một trong những giai đoạn hình thành và phát triển tư tưởng Hồ Chí Minh? *(Tư tưởng Hồ Chí Minh về cách mạng Việt Nam được hình thành về cơ bản trong thời kỳ nào? / Giai đoạn nào hình thành cơ bản tư tưởng Hồ Chí Minh về cách mạng Việt Nam?)*
+A. Từ năm 1890 - 1911: Thời kỳ nghiên cứu, khảo sát thực tế, đến với chủ nghĩa Mác - Lênin
+B. Từ năm 1921 - 1930: Thời kỳ hình thành cơ bản tư tưởng về con đường cách mạng Việt Nam
+C. Từ năm 1911 - 1920: Thời kỳ hình thành tư tưởng yêu nước, chí hướng cứu nước
+D. Từ năm 1890 - 1911: Thời kỳ vượt qua thử thách, kiên trì giữ vững lập trường cách mạng
+**Đáp án: B**
+
+**Câu 175:** Nguyễn Ái Quốc đã "cảm động, phấn khởi, sáng tỏ, tin tưởng... vui mừng đến phát khóc" khi đọc tác phẩm của ai?
+A. Stalin
+B. Lênin
+C. Mao Trạch Đông
+D. Các Mác
+**Đáp án: B**
+
+**Câu 176:** Luận điểm "mỗi đảng viên và cán bộ phải thật sự thấm nhuần đạo đức cách mạng, thật sự cần kiệm liêm chính, chí công vô tư" được Hồ Chí Minh nói đến trong tác phẩm nào? *(Đáp án: Di chúc — cùng với các luận điểm "Phải giữ gìn Đảng ta thật trong sạch...", "Bồi dưỡng thế hệ cách mạng cho đời sau...", "Đến ngày thắng lợi, nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn!")*
+A. Sửa đổi lối làm việc
+B. Đạo đức cách mạng
+C. Đường Cách mệnh
+D. Di chúc
+**Đáp án: D**
+
+**Câu 177:** Trong Di chúc, Hồ Chí Minh xác định: "Đảng ta là một đảng cầm quyền. Mỗi đảng viên và cán bộ phải thực sự thấm nhuần [...]". Cụm từ nào còn thiếu trong dấu [...]? *(nếu hỏi Khái niệm "Đảng cầm quyền" sử dụng trong tác phẩm nào => Di chúc)*
+A. Đường lối của Đảng
+B. Mục tiêu của Đảng
+C. Đạo đức cách mạng
+D. Nền tảng tư tưởng của Đảng
+**Đáp án: C**
+
+**Câu 178:** Trong tư tưởng Hồ Chí Minh pháp quyền nhân nghĩa được hiểu như thế nào? Pháp quyền nhân nghĩa được hiểu là:
+A. Nhà nước phải tôn trọng, đảm bảo thực hiện đầy đủ quyền con người, chăm lo đến lợi ích của mọi người
+B. Nhà nước phải tôn trọng những quyền tự do cá nhân, vì lợi ích của con người
+C. Nhà nước phải đảm bảo tính nhân văn trong pháp luật, quan tâm đến lợi ích mỗi người
+D. Nhà nước phải tôn trọng những quyền tự do cá nhân vì mục đích nhân văn cao cả
+**Đáp án: A**
+
+**Câu 179:** "Luận cương của V.I. Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao. Tôi vui mừng đến phát khóc lên..." Nguyễn Ái Quốc nói câu ấy khi đang ở đâu?
+A. Anh
+B. Trung Quốc
+C. Pháp
+D. Liên Xô
+**Đáp án: C**
+
+**Câu 180:** Nguồn gốc nào sau đây quyết định nhất tư tưởng Hồ Chí Minh?
+A. Chủ nghĩa Tam dân của Tôn Trung Sơn
+B. Học thuyết Nho giáo của Khổng Tử
+C. Chủ nghĩa Mác Lênin
+D. Tư tưởng của Giêsu
+**Đáp án: C**
+
+**Câu 181:** Theo Hồ Chí Minh, dân chủ là tư tưởng phải được tự do. Tự do là đối với mọi vấn đề, mọi người tự do bày tỏ ý kiến của mình, góp phần tìm ra điều gì?
+A. Chân lý
+B. Lý lẽ
+C. Nguyên tắc
+D. Thực tiễn
+**Đáp án: A**
+
+**Câu 182:** Theo Hồ Chí Minh, xây dựng khối đại đoàn kết toàn dân phải đứng vững trên lập trường nào?
+A. Lập trường trí thức, ưu tiên phát triển khoa học công nghệ
+B. Lập trường giai cấp công nhân, giải quyết hài hòa mối quan hệ giai cấp - dân tộc
+C. Lập trường giai cấp nông dân, ưu tiên đấu tranh ruộng đất
+D. Lập trường giai cấp tư sản, ưu tiên đấu tranh giai cấp
+**Đáp án: B**
+
+**Câu 183:** Điền cụm từ thích hợp vào dấu ba chấm. Theo Nguyễn Ái Quốc "Công nông là gốc cách mạng, còn học trò, địa chủ nhỏ, nhà buôn nhỏ là... của cách mạng"? *("gốc cách mệnh" => Công nông)*
+A. Bạn bè
+B. Đồng minh
+C. Liên minh
+D. Bầu bạn
+**Đáp án: D**
+
+**Câu 184:** Theo Hồ Chí Minh, xây dựng khối đại đoàn kết toàn dân để tập hợp lực lượng, không được phép bỏ sót một lực lượng nào miễn không là Việt gian, không phản bội lại quyền lợi của dân chúng phải:
+A. Đứng vững trên lập trường nhân dân lao động, giải quyết hài hoà mối quan hệ giai cấp - dân tộc
+B. Đứng vững trên lập trường giai cấp nông dân, giải quyết hài hoà mối quan hệ giai cấp - dân tộc
+C. Đứng vững trên lập trường giai cấp công nhân, giải quyết hài hoà mối quan hệ giai cấp - dân tộc
+**Đáp án: C**
+
+**Câu 185:** Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam là Đảng cầm quyền, vì vậy, mỗi cán bộ đảng viên cần phải làm gì? *(Nếu hỏi tiêu chuẩn cán bộ theo tư tưởng Hồ Chí Minh? => Đạo đức cách mạng)*
+A. Hết lòng phụng sự giai cấp công nhân
+B. Ra sức học tập, trau dồi chuyên môn, trình độ
+C. Thực sự thấm nhuần đạo đức cách mạng, cần, kiệm, liêm, chính, chí công vô tư
+D. Xây dựng khối đại đoàn kết dân tộc
+**Đáp án: C**
+
+**Câu 186:** Chọn phương án đúng nhất: Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam là:
+A. Đảng của giai cấp công nhân, đồng thời là đảng của dân tộc Việt Nam
+B. Đảng của giai cấp công nhân Việt Nam
+C. Đảng của giai cấp công nhân và nông dân Việt Nam
+D. Đảng của giai cấp công nhân Đông Dương
+**Đáp án: A**
+
+**Câu 187:** Quan điểm nào sau đây được xem là đánh giá của Hồ Chí Minh về giá trị của dân chủ?
+A. Dân chủ là của quý báu nhất của nhân dân
+B. Dân chủ là tài sản quý báu nhất của dân quyền
+C. Dân chủ là tài sản của mọi chế độ xã hội
+D. Dân chủ là tài sản vô giá của mọi xã hội không có sự phân chia giai cấp
+**Đáp án: A**
+
+**Câu 188:** Theo Hồ Chí Minh, đoàn kết phải căn cứ vào điều gì?
+A. Đấu tranh
+B. Phê bình
+C. Lợi ích chung
+D. Tự do
+**Đáp án: C**
+
+**Câu 189:** Trong Di Chúc Hồ Chí Minh viết rằng: *(câu trả lời chính xác nhất trong tác phẩm Di Chúc)*
+A. Đảng phải có kế hoạch tốt để phát triển kinh tế, văn hóa
+B. Đảng phải có kế hoạch tốt để phát triển kinh tế, chính trị
+C. Đảng phải có kế hoạch tốt để phát triển kinh tế, xã hội
+**Đáp án: A**
+
+**Câu 190:** Theo Hồ Chí Minh, không phải mọi con người đều trở thành động lực, mà phải là những con người như thế nào?
+A. Được giác ngộ và tổ chức
+B. Có đạo đức
+C. Có năng lực
+D. Có trình độ và hiểu biết
+**Đáp án: A**
+
+**Câu 191:** Theo Hồ Chí Minh, cách làm trong xây dựng xã hội mới là: / Theo Hồ Chí Minh, biện pháp cơ bản nhất để xây dựng chủ nghĩa xã hội là gì?
+A. Đem của dân, tài dân, sức dân làm lợi cho dân
+B. Nhà nước phải ban phát từ trên xuống
+C. Phải dựa vào sự giúp đỡ của các nước xã hội chủ nghĩa
+D. Phải tự lực cánh sinh, dựa vào sức mình là chính
+**Đáp án: A**
+
+**Câu 192:** Trong Di chúc, khi nói về những người nạn nhân của chế độ xã hội cũ, như trộm cắp, gái điếm, cờ bạc, buôn lậu, v.v., Hồ Chí Minh đã căn dặn Nhà nước phải dùng biện pháp gì để cải tạo, giúp họ trở nên những người lao động lương thiện:
+A. Giáo dục, pháp luật
+B. Răn đe, pháp luật
+C. Nhắc nhở, trừng phạt
+D. Giáo dục, đạo đức
+**Đáp án: A**
+
+**Câu 193:** Đâu là lưu ý trong tư tưởng Hồ Chí Minh? Hồ Chí Minh lưu ý:
+A. Đảng cầm quyền, Đảng lãnh đạo để cho dân làm chủ
+B. Đảng cầm quyền, Đảng lãnh đạo để cho dân quản lý
+C. Đảng cầm quyền, Đảng lãnh đạo để cho dân giám sát
+**Đáp án: A**
+
+**Câu 194:** Hồ Chí Minh luôn nhấn mạnh việc thực hành dân chủ, mà trước hết là dân chủ trong đâu?
+A. Trong nhân dân
+B. Trong nội bộ Đảng
+C. Trong Nhà nước
+D. Trong giai cấp công nhân
+**Đáp án: B**
+
+**Câu 195:** Hồ Chí Minh vạch ra nhiệm vụ hàng đầu của cách mạng dân tộc thuộc địa là gì?
+A. Giải phóng dân tộc
+B. Giải phóng giai cấp
+C. Giải phóng nhân loại
+D. Giải phóng xã hội
+**Đáp án: A**
+
+**Câu 196:** Hồ Chí Minh luôn nhấn mạnh thái độ nào sau đây của Đảng viên?
+A. Nêu gương
+B. Dũng cảm
+C. Đoàn kết
+D. Cống hiến
+**Đáp án: A**
+
+**Câu 197:** Theo quan điểm của Đảng Cộng sản Việt Nam tại Đại hội đại biểu toàn quốc lần thứ VII, Tư tưởng Hồ Chí Minh là gì?
+A. Tài sản tinh thần quý báu của Đảng và của cả dân tộc
+B. Tài sản tinh thần to lớn của Đảng và dân tộc ta
+C. Tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta
+D. Tài sản tinh thần không gì có thể sánh được của cả dân tộc ta
+**Đáp án: A**
+
+**Câu 198:** Theo quan điểm của Đảng Cộng sản Việt Nam, Nhà nước pháp quyền là gì?
+A. Nhà nước tạo ra sự ổn định về chính trị
+B. Tuyển dụng cán bộ nhà nước phải thông qua thi tuyển chặt chẽ
+C. Nhà nước quản lý xã hội bằng pháp luật và làm cho pháp luật có hiệu quả trong thực tế
+D. Khuyến khích nhân dân tham gia vào các công việc của Nhà nước
+**Đáp án: C**
+
+**Câu 199:** Theo Hồ Chí Minh đối tượng cơ bản của cách mạng thuộc địa là ai?
+A. Thực dân, đế quốc
+B. Thực dân, tay sai phản động
+C. Thực dân, phong kiến
+D. Thực dân, tư sản
+**Đáp án: B**
+
+**Câu 200:** Trong tư tưởng Hồ Chí Minh, lực lượng nào là chủ thể của khối đại đoàn kết dân tộc? *(thực hiện đại đoàn kết dân tộc phải đoàn kết được với ai => Đại đoàn kết toàn dân)*
+A. Công nhân
+B. Toàn thể nhân dân
+C. Nông dân
+D. Không xác định lực lượng chủ thể
+**Đáp án: B**
+
+**Câu 201:** Theo tư tưởng Hồ Chí Minh, luận điểm Đảng Cộng sản Việt Nam là sản phẩm của sự kết hợp giữa chủ nghĩa Mác-Lênin với phong trào công nhân và phong trào yêu nước là xác định nội dung nào trong các nội dung sau đây? *(Nếu Đảng Cộng sản Việt Nam ra đời trên cơ sở của những yếu tố nào? => Chủ nghĩa Mác - Lênin, phong trào công nhân, phong trào yêu nước Việt Nam)*
+A. Xác định nhiệm vụ của Đảng
+B. Xác định bản chất của Đảng
+C. Xác định nguồn gốc ra đời của Đảng
+D. Xác định năng lực của Đảng
+**Đáp án: C**
+
+**Câu 202:** Theo Hồ Chí Minh, Đảng cộng sản Việt Nam là Đảng như thế nào?
+A. Cầm quyền
+B. Quản lý
+C. Phân quyền
+D. Làm chủ
+**Đáp án: A**
+
+**Câu 203:** Điểm đặc sắc nhất trong tư tưởng Hồ Chí Minh về nhà nước pháp quyền là gì?
+A. Kết hợp nhuần nhuyễn cả pháp luật và đạo đức trong quản lý
+B. Đề cao đạo đức trong quản lý xã hội
+C. Đề cao luật pháp trong quản lý xã hội
+D. Đề cao công tác kiểm tra giám sát hoạt động của tổ chức đảng
+**Đáp án: A**
+
+**Câu 204:** Theo Hồ Chí Minh, Đảng cộng sản Việt Nam là Đảng:
+A. Của xã hội
+B. Của nhân dân lao động và của dân tộc
+C. Của dân, do dân và vì dân
+**Đáp án: B**
+
+**Câu 205:** Luận điểm: "Cách mệnh An Nam cũng là một bộ phận trong cách mệnh thế giới. Ai làm cách mệnh trong thế giới đều là đồng chí của dân An Nam cả" được trích từ tác phẩm nào của Hồ Chí Minh?
+A. Đông Dương (1923-1924)
+B. Đường Kách mệnh
+C. Bản án chế độ thực dân Pháp
+D. Tuyên ngôn Độc lập
+**Đáp án: B**
+
+**Câu 206:** Theo Hồ Chí Minh, để kiểm soát quyền lực nhà nước trước tiên cần phải làm gì?
+A. Phát huy vai trò giám sát của dân chúng
+B. Phát huy vai trò, trách nhiệm của Đảng Cộng sản
+C. Tăng cường vai trò giám sát của hội đồng nhân dân
+D. Tăng cường trách nhiệm của mặt trận tổ quốc
+**Đáp án: A**
+
+**Câu 207:** Trong những câu nói sau đây, câu nào không phải là của Hồ Chí Minh?
+A. "Chúng ta đã xây dựng nên nước Việt Nam Dân chủ Cộng hòa. Nhưng nếu nước độc lập mà dân không được hưởng hạnh phúc tự do, thì độc lập cũng chẳng có nghĩa lý gì".
+B. "Chính phủ nhân dân bao giờ cũng phải đặt quyền lợi của dân lên trên hết thảy. Việc gì có lợi cho dân thì phải hết sức làm. Việc gì hại đến dân thì phải hết sức tránh".
+C. "Khoan thư sức dân làm kế sâu rễ bền gốc".
+D. "Muốn được dân yêu, muốn được lòng dân, trước hết phải yêu dân, phải đặt quyền lợi của dân trên hết thảy, phải có một tinh thần chí công vô tư.
+**Đáp án: C**
+
+**Câu 208:** Vận dụng tư tưởng Hồ Chí Minh cần phải nắm vững quan điểm nào?
+A. Quan điểm lịch sử thế giới
+B. Quan điểm lịch sử Việt Nam
+C. Quan điểm lịch sử cụ thể
+D. Quan điểm phát triển
+**Đáp án: C**
+
+**Câu 209:** Luật cải cách ruộng đất quy định nội dung nào?
+A. Nghiêm cấm việc tiến hành bắt giữ và giết hại nhân dân, nghiêm cấm đánh đập, tra tấn hoặc dùng mọi thứ nhục hình khác
+B. Nghiêm cấm việc tiến hành bắt giữ và giết hại trái phép, nghiêm cấm đánh đập, tra tấn hoặc dùng mọi thứ nhục hình khác
+C. Phân chia ruộng đất cho dân cày, dân nghèo, không can thiệp vào sản xuất
+D. Tử hình toàn bộ bọn Việt gian, phản động, cường hào gian ác và những kẻ chống lại hoặc phá hoại cải cách ruộng đất
+**Đáp án: B**
+
+**Câu 210:** Theo Hồ Chí Minh, quyền lãnh đạo Mặt trận của Đảng không phải do Đảng tự phong cho mình, mà phải được thực hiện như thế nào?
+A. Nhân dân bỏ phiếu
+B. Trưng cầu dân ý
+C. Nhân dân thừa nhận
+D. Chính quyền cho phép
+**Đáp án: C**
+
+**Câu 211:** Văn kiện nào của Đảng Lao động Việt Nam đã khẳng định: "Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, người anh hùng dân tộc vĩ đại, và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta"?
+A. Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng
+B. Điếu văn của Ban Chấp hành Trung ương Đảng Lao động Việt Nam tại Lễ Truy điệu Chủ tịch Hồ Chí Minh
+C. Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ VI của Đảng
+D. Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ VII của Đảng
+**Đáp án: B**
+
+**Câu 212:** Tư tưởng Hồ Chí Minh hình thành trên cơ sở nào?
+A. Vận dụng và phát triển sáng tạo chủ nghĩa Mác-Lênin
+B. Tiếp thu toàn bộ chủ nghĩa Mác-Lênin
+C. Tiếp thu một bộ phận của chủ nghĩa Mác-Lênin
+D. Vận dụng hoàn toàn chủ nghĩa Mác - Lênin vào hoàn cảnh của Việt Nam
+**Đáp án: A**
+
+**Câu 213:** Để chuẩn bị thành lập Đảng Cộng sản Việt Nam. Nguyễn Ái Quốc đã từ Liên Xô về Trung Quốc năm nào?
+A. 1923
+B. 1927
+C. 1924
+D. 1925
+**Đáp án: C**
