@@ -1712,4 +1712,1484 @@ export const quizQuestions: QuizQuestion[] = [
     explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
     points: 10
   },
+  {
+    id: "q214",
+    question: "Trong xã hội hiện nay, vận dụng tư tưởng Hồ Chí Minh về đạo đức cán bộ có còn phù hợp không?",
+    options: ["Có. Vì tư tưởng của Người vẫn mang tính thời sự","Không. Vì tư tưởng của Người đã không còn phù hợp","Có. Vì tư tưởng của Người luôn mang tính thời sự vì vậy phải áp dụng phù hợp với từng giai đoạn của đất nước","Không. Vì cán bộ hiện nay đều đã được rèn luyện đạo đức cách mạng trước khi thực hiện nhiệm vụ, đặc biệt là thấm nhuần chủ nghĩa Mác - Lênin"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q215",
+    question: "Cách diễn đạt nào dưới đây là của Hồ Chí Minh?",
+    options: ["Lý luận mà không liên hệ với thực tiễn là lý luận mù quáng","Lý luận mà không liên hệ với thực tiễn là lý luận suông","Lý luận mà không liên hệ với thực tiễn là lý luận giáo điều","Lý luận mà không liên hệ với thực tiễn là lý luận trống rỗng"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q216",
+    question: "Trong các quan điểm dưới đây, đâu là quan điểm của Hồ Chí Minh?",
+    options: ["Văn hoá ngang hàng với các lĩnh vực khác, có mối quan hệ với các lĩnh vực khác","Văn hoá không như lĩnh vực khác, có mối quan hệ với các lĩnh vực khác","Văn hoá là mọi lĩnh vực có mối quan hệ ngang hàng","Văn hóa ngang hàng với các lĩnh vực khác, không có mối quan hệ với các lĩnh vực khác"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q217",
+    question: "Đâu là nguyên tắc xây dựng đạo đức mới trong tư tưởng Hồ Chí Minh? *(\"Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hàng ngày mà phát triển và củng cố...\" => nguyên tắc xây dựng đạo đức mới)*",
+    options: ["Phải tu dưỡng đạo đức suốt đời","Phải tu dưỡng đạo đức thường xuyên","Phải tu dưỡng đạo đức hàng ngày","Phải tu dưỡng đạo đức liên tục"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q218",
+    question: "Theo Hồ Chí Minh, đâu là lực lượng lãnh đạo Mặt trận dân tộc thống nhất?",
+    options: ["Đảng Cộng sản","Quốc hội","Chính phủ","Nhà nước"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q219",
+    question: "Theo Hồ Chí Minh, để thực hiện chiến lược \"trồng người\", cần có nhiều biện pháp, nhưng biện pháp quan trọng bậc nhất là:",
+    options: ["Giáo dục - đào tạo","Thuyết phục - nêu gương","Cảm hóa - động viên","Ép buộc - cưỡng chế"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q220",
+    question: "Theo chủ tịch Hồ Chí Minh, đặc điểm của giai cấp địa chủ ở Việt Nam là gì?",
+    options: ["Là giai cấp phản động","Là giai cấp tiên tiến","Có thể lợi dụng","Cần phải loại bỏ"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q221",
+    question: "Theo quan điểm của Hồ Chí Minh, đặc điểm của thời kỳ quá độ ở Việt Nam là gì?",
+    options: ["Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn phát triển xã hội phong kiến","Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, thông qua giai đoạn phát triển tư bản chủ nghĩa","Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn phát triển xã hội dân chủ","Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn phát triển tư bản chủ nghĩa"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q222",
+    question: "Theo Hồ Chí Minh, một trong những đặc điểm của Nhà nước pháp quyền là gì?",
+    options: ["Nhà nước lãnh đạo nhân dân thực hiện các nhiệm vụ cách mạng","Nguyên tắc cơ bản của Nhà nước là hiệp thương dân chủ","Nhà nước hợp hiến, hợp pháp","Sự lãnh đạo của Đảng đối với Nhà nước"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q223",
+    question: "Hồ Chí Minh lần đầu tiên đưa ra định nghĩa văn hóa vào lúc nào?",
+    options: ["Vào thời gian Bác ở Pháp","Vào thời điểm thành lập Đảng","Vào thời gian đang ở nhà tù của Tưởng Giới Thạch","Vào thời điểm đọc Tuyên Ngôn Độc lập"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q224",
+    question: "Hồ Chí Minh lần đầu tiên đã đưa ra một định nghĩa về văn hóa trong tác phẩm nào?",
+    options: ["\"Bản án chế độ thực dân Pháp\"","\"Đường Kách mệnh\"","\"Nhật ký trong tù\"","\"Sửa đổi lối làm việc\""],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q225",
+    question: "Đâu là quan điểm đúng trong tư tưởng Hồ Chí Minh?",
+    options: ["Cách mạng tư sản dân quyền trước cách mạng thổ địa","Cách mạng vô sản dân quyền trước cách mạng thổ địa","Tiến hành đồng thời cách mạng tư sản dân quyền với cách mạng xã hội chủ nghĩa","Cách mạng thổ địa trước cách mạng tư sản dân quyền"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q226",
+    question: "Theo Hồ Chí Minh, \"văn hóa [..] cho quốc dân đi\". Từ nào còn thiếu trong dấu [..]?",
+    options: ["Mở đường","Soi đường","Chỉ đường","Dẫn đường"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q227",
+    question: "Hồ Chí Minh khẳng định: \"Văn hóa phải soi đường cho quốc dân đi\" là nói đến vấn đề gì?",
+    options: ["Văn hóa chính trị là một trong những động lực cho sự phát triển","Văn hóa là bản sắc dân tộc","Văn hóa là niềm tin của quần chúng","Văn hóa là tiêu chí để đánh giá trình độ dân tộc"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q228",
+    question: "Trong các mệnh đề về đạo đức của mình, theo Hồ Chí Minh, đâu là cái đức lớn nhất:",
+    options: ["Trung với nước, hiếu với dân","Tận tụy quên mình","Cần, kiệm, liêm, chính, chí công vô tư","Khiêm tốn, giản dị"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q229",
+    question: "Đâu là chuẩn mực đạo đức cách mạng trong tư tưởng Hồ Chí Minh? *(chọn Trung với nước, hiếu với dân hoặc Có tinh thần quốc tế trong sáng)*",
+    options: ["Cần, kiệm, liêm, chính, chí công vô tư","Cần, kiệm, liêm, chính, sáng suốt","Cần, kiệm, liêm, chính, tự do"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q230",
+    question: "Theo tư tưởng Hồ Chí Minh, con người mới xã hội chủ nghĩa là con người như thế nào?",
+    options: ["Kế thừa những giá trị tốt đẹp của con người truyền thống","Hình thành những phẩm chất mới xã hội chủ nghĩa","Kế thừa những giá trị tốt đẹp của con người truyền thống, hình thành những phẩm chất mới xã hội chủ nghĩa","Phá bỏ những truyền thống cũ"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q231",
+    question: "Hồ Chí Minh đã đề ra những nhiệm vụ cấp bách của Nhà nước Việt Nam Dân chủ Cộng hòa vào thời điểm nào?",
+    options: ["Năm 1944","Năm 1945","Năm 1946","Năm 1947"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q232",
+    question: "Tác phẩm \"Cần Kiệm Liêm Chính\" của Hồ Chí Minh được xuất bản vào thời gian nào?",
+    options: ["Năm 1950","Năm 1949","Năm 1947","Năm 1948"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q233",
+    question: "Theo Hồ Chí Minh, chủ nghĩa cá nhân, lợi mình hại người, tự do vô tổ chức, vô kỷ luật và những tính xấu khác được coi là:",
+    options: ["\"Kẻ địch nguy hiểm của chủ nghĩa xã hội\"","\"Đối lập với chủ nghĩa xã hội\"","\"Cần loại bỏ trong chủ nghĩa xã hội\"","\"Không thuộc về chủ nghĩa xã hội\""],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q234",
+    question: "Trong tác phẩm \"Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân\" viết trên báo Nhân dân, năm 1969, Hồ Chí Minh ví chủ nghĩa cá nhân như:",
+    options: ["Bệnh mẹ","Bệnh nguy hiểm","Giặc ngoại xâm","Bệnh cần loại bỏ"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q235",
+    question: "Khái niệm con người theo quan niệm của Hồ Chí Minh là con người như thế nào?",
+    options: ["Con người cụ thể gắn với hoàn cảnh lịch sử cụ thể","Một cộng đồng người","Một con người cụ thể","Con người trừu tượng, chung chung"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q236",
+    question: "Nhận định nào sau đây đúng với khái niệm con người trong tư tưởng Hồ Chí Minh?",
+    options: ["Dùng để chỉ con người chung chung","Dùng để chỉ một cộng đồng người","Dùng để chỉ con người cụ thể gắn với hoàn cảnh lịch sử cụ thể","Dùng để chỉ con người trừu tượng"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q237",
+    question: "Theo Hồ Chí Minh, ngoài lợi ích của giai cấp, của nhân dân và toàn thể dân tộc Việt Nam, Đảng cần phải có thêm điều gì?",
+    options: ["Không còn lợi ích nào khác","Còn vì lợi ích của mình","Còn vì lợi ích của nhà nước","Còn vì lợi ích cá nhân"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q238",
+    question: "Trong công tác xây dựng Đảng, Hồ Chí Minh xác định: \"mục đích phê bình cốt để [..] giúp nhau tiến bộ\". Cụm từ nào còn thiếu trong dấu [..]?",
+    options: ["Giúp nhau cải tạo","Giúp nhau sửa chữa","Sửa chữa sai lầm","Chỉ ra sai lầm"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q239",
+    question: "Hồ Chí Minh cho rằng, \"Vì... loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo, văn học, nghệ thuật, những công cụ cho sinh hoạt hằng ngày về mặc, ăn ở và các phương thức sử dụng\".",
+    options: ["lẽ sinh tồn cũng như mục đích của cuộc sống","nhu cầu đời sống và tinh thần","mục đích phát triển và sinh tồn","cuộc sống"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q240",
+    question: "Theo Hồ Chí Minh, tính khoa học của nền văn hóa mới thể hiện ở tính hiện đại, tiên tiến, thuận với:",
+    options: ["Trào lưu tiến hóa của dân tộc","Trào lưu tiến hóa của thời đại","Trào lưu tiến hóa của khoa học kỹ thuật"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q241",
+    question: "Theo Hồ Chí Minh, đại đoàn kết dân tộc là nhiệm vụ hàng đầu của Đảng, đồng thời cũng là nhiệm vụ hàng đầu của: *(Đại đoàn kết dân tộc là một ....... hàng đầu của cách mạng Việt Nam => Mục tiêu, nhiệm vụ)*",
+    options: ["Mọi giai đoạn cách mạng","Toàn quân","Toàn dân"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q242",
+    question: "Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là gì?",
+    options: ["Đại đoàn kết toàn dân","Đoàn kết công-nông","Đoàn kết công-nông và các tầng lớp xã hội khác","Đoàn kết công-nông-lao động trí óc"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q243",
+    question: "Thực hành đạo đức cách mạng trong xã hội hiện nay, theo Hồ Chí Minh cần phải làm gì?",
+    options: ["Làm đúng quyền hạn và bổn phận","Làm đúng theo trách nhiệm và quyền hạn","Luôn nghĩ về nhân dân, xuất phát từ dân mà làm, không phạm pháp luật","Luôn luôn làm theo tư tưởng Hồ Chí Minh"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q244",
+    question: "Đâu là quan điểm của Hồ Chí Minh về xây dựng nhà nước có hiệu lực pháp lý mạnh mẽ?",
+    options: ["Hoạt động quản lý nhà nước bằng Hiến pháp và pháp luật, chú trọng đưa pháp luật vào cuộc sống","Hoạt động quản lý nhà nước bằng Hiến pháp và pháp luật, chú trọng đưa pháp luật vào thực tiễn","Hoạt động quản lý nhà nước bằng Hiến pháp và pháp luật, chú trọng đưa pháp luật vào xã hội","Hoạt động quản lý nhà nước bằng Hiến pháp và pháp luật, chú trọng đưa pháp luật vào đời sống kinh tế"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q245",
+    question: "Theo Hồ Chí Minh, chế độ xã hội chủ nghĩa là chế độ do dân làm chủ, thì mỗi con người được coi là gì?",
+    options: ["Bộ phận của tập thể","Một tế bào của xã hội","Đều là một cá thể trong xã hội","Một phần của tập thể"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q246",
+    question: "Hãy chọn phương án trả lời đúng nhất: Theo Hồ Chí Minh, để tập hợp được mọi lực lượng vào khối đại đoàn kết toàn dân, cần phải làm gì?",
+    options: ["Có chính sách đúng đắn","Có phương pháp phù hợp với từng đối tượng","Vừa có chính sách đúng đắn, vừa có phương pháp phù hợp với từng đối tượng","Chăm lo đời sống vật chất và tinh thần cho nhân dân"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q247",
+    question: "Điểm giống trong tư tưởng về xây dựng nhà nước của Hồ Chí Minh và các bậc tiền nhân trong lịch sử là gì? *(Điểm giống -> dựa vào dân / Điểm khác -> con đường cách mạng)*",
+    options: ["Dựa vào bạo lực vũ trang","Dựa vào dân","Dựa vào tài năng, trí tuệ, óc phán đoán","Dựa vào đạo đức cách mạng"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q248",
+    question: "Điền cụm từ thích hợp vào dấu ba chấm. Theo quan điểm Hồ Chí Minh, xây dựng đạo đức mới, trước hết là thực hành đạo đức cách mạng, thực hành ...",
+    options: ["Chí công vô tư","Cần kiệm liêm chính","Trung với nước, hiếu với dân","Cần, kiệm, liêm, chính, chí công vô tư"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q249",
+    question: "Đâu là phương án chính xác và đầy đủ nhất, theo quan điểm Hồ Chí Minh?",
+    options: ["Văn hóa tham gia vào nhiệm vụ các hoạt động kinh tế, chính trị, xã hội và trong hoạt động của kinh tế, chính trị, xã hội cũng phải có văn hóa","Văn hóa tham gia vào nhiệm vụ các hoạt động kinh tế, chính trị, xã hội và trong hoạt động của kinh tế, chính trị, xã hội cũng phải có đạo đức","Văn hóa tham gia vào nhiệm vụ các hoạt động kinh tế, chính trị, xã hội và trong hoạt động của kinh tế, chính trị, xã hội cũng phải có tinh thần cách mạng","Văn hóa tham gia vào nhiệm vụ các hoạt động kinh tế, xã hội và trong hoạt động của kinh tế, chính trị, xã hội cũng phải có tinh thần quốc tế"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q250",
+    question: "Chế độ xã hội dưới sự lãnh đạo của Đảng Cộng sản và giai cấp công nhân, đánh đổ đế quốc và phong kiến; trên nền tảng công nông liên minh, nhân dân lao động làm chủ, nhân dân dân chủ chuyên chính theo tư tưởng Mác - Lênin, theo Hồ Chí Minh đó là:",
+    options: ["Chế độ dân chủ mới","Chế độ dân chủ nhân dân","Chế độ dân chủ xã hội chủ nghĩa","Chế độ chuyên chính vô sản"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q251",
+    question: "Hồ Chí Minh nhắc cán bộ nhà nước phải biết điều gì?",
+    options: ["Học tập từ nhân dân","Tự tôn dân tộc trước nhân dân","Quan cách mạng trước nhân dân","Cậy thế, cậy quyền"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q252",
+    question: "Hồ Chí Minh nhắc cán bộ nhà nước phải biết làm điều gì?",
+    options: ["Làm lợi cho dân","Lao động vì dân","Phấn đấu vì dân","Làm quan cách mạng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q253",
+    question: "Hồ Chí Minh nhắc cán bộ nhà nước phải như thế nào?",
+    options: ["Có mối liên hệ mật thiết với đại diện của nhân dân","Có mối liên hệ mật thiết với chính quyền","Có mối liên hệ mật thiết với nhân dân","Có mối liên hệ mật thiết với giai cấp mình"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q254",
+    question: "Theo Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ ở nước ta là gì?",
+    options: ["Đấu tranh cải tạo, xóa bỏ tàn tích của chế độ xã hội cũ, xây dựng các yếu tố mới phù hợp với quy luật tiến lên chủ nghĩa xã hội trên tất cả các lĩnh vực đời sống","Xoá bỏ những tàn tích của chế độ xã hội cũ, xây dựng các giá trị mới phù hợp trên tất cả các lĩnh vực đời sống xã hội","Cải cách xã hội, kiên quyết đấu tranh bài trừ các giá trị của xã hội cũ để xây dựng chủ nghĩa xã hội trên tất cả các lĩnh vực đời sống","Củng cố và phát triển các giá trị của xã hội cũ vẫn còn phù hợp để xây dựng chủ nghĩa xã hội"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q255",
+    question: "Theo Hồ Chí Minh, Nhà nước Việt Nam được xây dựng phải là nhà nước như thế nào?",
+    options: ["Nhà nước tự lập, tự tôn","Nhà nước bảo hộ cho phép","Nhà nước quốc gia dân tộc","Nhà nước hợp pháp, hợp hiến"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q256",
+    question: "Theo Hồ Chí Minh, đạo đức là nhân tố tạo nên:",
+    options: ["Sức mạnh, sức hấp dẫn của chủ nghĩa xã hội","Sức mạnh, sức hấp dẫn của chủ nghĩa Mác-Lênin","Sức mạnh, sức hấp dẫn của tư tưởng Hồ Chí Minh"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q257",
+    question: "Hồ Chí Minh công tác tại Viện nghiên cứu các vấn đề dân tộc và thuộc địa vào thời gian nào? *(vào học Trường Quốc tế Lênin và làm nghiên cứu sinh => 1934)*",
+    options: ["1923","1932","1934","1936"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q258",
+    question: "Nguyễn Sinh Cung theo cha lần đầu tiên đến Huế vào thời gian nào?",
+    options: ["Từ năm 1895 đến năm 1901","Từ năm 1896 đến năm 1906","Từ năm 1896 đến năm 1901","Từ năm 1895 đến năm 1905"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q259",
+    question: "Đâu là nguyên tắc đoàn kết quốc tế trong tư tưởng Hồ Chí Minh?",
+    options: ["Đảm bảo mục tiêu độc lập của dân tộc mình và mục tiêu thời đại","Đảm bảo mục tiêu độc lập của dân tộc mình và mục tiêu của nhân loại","Đảm bảo mục tiêu độc lập của dân tộc mình và mục tiêu đại chúng","Đảm bảo mục tiêu độc lập của dân tộc mình và mục tiêu của các nước đặt quan hệ ngoại giao"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q260",
+    question: "Đâu là nguyên tắc đoàn kết quốc tế trong tư tưởng Hồ Chí Minh?",
+    options: ["Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình","Đoàn kết trên cơ sở thống nhất mục tiêu độc lập của dân tộc mình và mục tiêu của nhân loại","Đoàn kết trên cơ sở thống nhất mục tiêu và mục đích, có lý, có tình","Đoàn kết trên cơ sở thống nhất lợi ích và chủ nghĩa dân tộc"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q261",
+    question: "Trong tư tưởng Hồ Chí Minh, Mặt trận dân tộc thống nhất là nơi quy tụ mọi tổ chức và cá nhân yêu nước người Việt Nam, bao gồm cả những đối tượng nào?",
+    options: ["Định cư ở nước ngoài","Đang sống ở các nước cùng Châu lục","Định cư ở các nước theo con đường xã hội chủ nghĩa","Các cá nhân thuộc tổ chức phi chính phủ"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q262",
+    question: "Nguyễn Tất Thành lấy tên là Nguyễn Ái Quốc vào thời gian nào?",
+    options: ["Khi Bác lên tàu từ bến Nhà Rồng năm 1911","Khi Bác tham gia sáng lập Đảng Cộng sản Pháp tại Đại hội Tua tháng 12/1920","Tại Hội nghị Vécxay (Pháp) ngày 18/6/1919","Khi Bác sang Liên Xô làm việc ở Ban Phương Đông của Quốc tế Cộng sản tháng 6/1923"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q263",
+    question: "Hồ Chí Minh cho rằng quá độ lên chủ nghĩa xã hội ở Việt Nam phải tiến hành như thế nào?",
+    options: ["Từ từ, từng bước một","Nhanh chóng, chính xác","Cẩn thận, không chủ quan","Nhanh chóng, không chủ quan"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q264",
+    question: "Hồ Chí Minh cho rằng:",
+    options: ["Đạo đức cách mạng là hòa mình với quần chúng thành một khối, tin quần chúng, hiểu quần chúng, lắng nghe ý kiến của quần chúng","Đạo đức cách mạng là tin quần chúng, hiểu quần chúng, lắng nghe ý kiến của quần chúng","Đạo đức cách mạng là hòa mình cộng đồng, lắng nghe ý kiến của cộng đồng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q265",
+    question: "Quan điểm nào sau đây đúng với tư tưởng của Hồ Chí Minh?",
+    options: ["Chủ nghĩa dân tộc là động lực lớn của đất nước","Chủ nghĩa dân tộc là khát khao lớn của đất nước","Chủ nghĩa dân tộc là mục tiêu lớn của đất nước","Chủ nghĩa dân tộc là chiến lược hàng đầu của cách mạng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q266",
+    question: "Theo Hồ Chí Minh, về bước đi trong thời kỳ quá độ, chúng ta phải:",
+    options: ["Theo bước đi của các nước xã hội chủ nghĩa","Căn cứ vào đặc điểm lịch sử cụ thể của nước ta từ đó có bước đi phù hợp","Căn cứ vào đặc điểm lịch sử cụ thể của nước ta từ đó có bước đi phù hợp, đi bước nào vững chắc bước ấy","Bước đi chậm, mạnh, vững chắc"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q267",
+    question: "Đâu là luận điểm sai với tư tưởng Hồ Chí Minh khi Người nói về việc học?",
+    options: ["Học để làm lãnh đạo","Học để làm cán bộ","Học để làm việc","Học để làm người"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q268",
+    question: "Dưới đây là một số luận điểm của Hồ Chí Minh về nhà nước vì dân. Luận điểm nào bị viết sai?",
+    options: ["Do nhân dân làm chủ","Phụng sự nhân dân","Chăm lo mọi mặt đời sống nhân dân","Tất cả đều vì lợi ích của nhân dân"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q269",
+    question: "Trong các tiền đề tư tưởng - lý luận, tiền đề nào trực tiếp quyết định bản chất tư tưởng Hồ Chí Minh?",
+    options: ["Chủ nghĩa Tôn Trung Sơn","Tinh hoa văn hóa nhân loại","Tinh hoa văn hóa dân tộc","Chủ nghĩa Mác - Lênin"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q270",
+    question: "Dưới đây là một số luận điểm của Hồ Chí Minh trong việc xây dựng đường lối chính trị của Đảng, luận điểm nào bị viết sai?",
+    options: ["Dựa trên cơ sở lý luận của chủ nghĩa Mác - Lênin","Tập hợp các nhà nghiên cứu lý luận giỏi","Thật sự là đội tiên phong dũng cảm, là bộ tham mưu sáng suốt của giai cấp công nhân, nhân dân lao động và của cả dân tộc","Vận dụng kinh nghiệm của các Đảng cộng sản anh em vào điều kiện cụ thể của nước ta trong thời kỳ quá độ"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q271",
+    question: "Hồ Chí Minh cho rằng giải phóng dân tộc là sự nghiệp của:",
+    options: ["Toàn dân","Toàn quân","Toàn Đảng","Giai cấp công nhân"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q272",
+    question: "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn thắng lợi phải do ai lãnh đạo?",
+    options: ["Đảng Cộng sản","Giai cấp công nhân","Giai cấp vô sản","Đảng của giai cấp tư sản"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q273",
+    question: "Đâu không phải là điểm giống nhau giữa chủ nghĩa xã hội và chủ nghĩa cộng sản theo Hồ Chí Minh?",
+    options: ["Sức sản xuất phát triển dựa trên chế độ tư hữu","Tư liệu sản xuất là của chung","Không còn giai cấp áp bức bóc lột","Năng suất lao động phát triển"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q274",
+    question: "Theo Hồ Chí Minh, nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội là gì?",
+    options: ["Làm theo năng lực, hưởng theo nhu cầu","Làm nhiều hưởng nhiều, làm ít hưởng ít, không làm không hưởng","Phân phối bình quân cho tất cả mọi người","Phân phối theo thỏa thuận"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q275",
+    question: "Theo Hồ Chí Minh, để thực hiện được đoàn kết, cần xoá bỏ hết mọi thành kiến, cần phải (....) và giúp đỡ lẫn nhau cùng tiến bộ.",
+    options: ["Nghiêm túc hợp tác","Thật thà hợp tác","Sẵn sàng hợp tác"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q276",
+    question: "Theo Hồ Chí Minh, văn hóa là đời sống tinh thần của xã hội, thuộc:",
+    options: ["Kiến trúc thượng tầng","Cơ sở hạ tầng","Tất cả các phương án","Lực lượng sản xuất"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q277",
+    question: "Theo Hồ Chí Minh, mâu thuẫn chủ yếu ở thuộc địa, không thể điều hòa được là gì?",
+    options: ["Mâu thuẫn giữa giai cấp công nhân với chủ nghĩa thực dân","Mâu thuẫn giữa dân tộc thuộc địa với thực dân, đế quốc","Mâu thuẫn giữa giai cấp nông dân với giai cấp địa chủ bản xứ","Tất cả các phương án trên"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q278",
+    question: "Trong tư tưởng Hồ Chí Minh, mối quan hệ giữa Đảng và Mặt trận được xác định là mối quan hệ:",
+    options: ["Song song","Máu thịt","Biện chứng","Độc lập"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q279",
+    question: "Chủ nghĩa nào sau đây ảnh hưởng đến sự hình thành tư tưởng Hồ Chí Minh? *(Yếu tố nào sau đây ảnh hưởng => Lý luận và thực tiễn các cuộc cách mạng)*",
+    options: ["Chủ nghĩa dân tộc của Grady","Chủ nghĩa dân tộc hẹp hòi","Chủ nghĩa Tam dân của Tôn Trung Sơn","Chủ nghĩa dân chủ của Kenedy"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q280",
+    question: "Theo Hồ Chí Minh, trong thời kỳ quá độ, phải ưu tiên phát triển thành phần kinh tế nào?",
+    options: ["Kinh tế hợp tác xã","Kinh tế thủ công và lao động riêng lẻ","Kinh tế quốc doanh","Kinh tế tư bản tư nhân"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q281",
+    question: "\"Tinh thần yêu nước chân chính khác hẳn với tinh thần \"vị quốc\" của bọn đế quốc phản động. Nó là một bộ phận của tinh thần quốc tế\" là câu nói được Hồ Chí Minh khẳng định trong Báo cáo chính trị của Đại hội đại biểu toàn quốc lần thứ mấy?",
+    options: ["Lần thứ I","Lần thứ II","Lần thứ III","Lần thứ IV"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q282",
+    question: "Hồ Chí Minh cho rằng:",
+    options: ["Đại đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược, quyết định sự thành công của cách mạng","Đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược tác động trực tiếp đến sự thành công của cách mạng","Đại đoàn kết toàn dân là vấn đề có ý nghĩa chiến lược, quyết định sự trưởng thành của cách mạng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q283",
+    question: "Điền vào chỗ trống. \"Đại đoàn kết dân tộc là....của cách mạng\".",
+    options: ["Mục tiêu, nhiệm vụ","Chìa khóa, con đường","Chìa khóa","Biện pháp, phương hướng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q284",
+    question: "Theo Hồ Chí Minh nhân tố nào sau đây quyết định thành công của thời kỳ quá độ lên chủ nghĩa xã hội?",
+    options: ["Con người","Văn hóa","Xã hội","Kinh tế"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q285",
+    question: "Theo Hồ Chí Minh, đánh giá cán bộ cần phải như thế nào?",
+    options: ["Tiến hành thường xuyên","Khách quan, trung thực","Phải tự biết mình, biết người","Phải đủ trong sạch"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q286",
+    question: "*(Chọn 2 đáp án)* Theo Hồ Chí Minh, tại sao phải đoàn kết quốc tế?",
+    options: ["Nhằm kết hợp sức mạnh dân tộc và sức mạnh thời đại, tạo sức mạnh tổng hợp cho cách mạng","Góp phần cùng nhân dân thế giới thực hiện các mục tiêu cách mạng","Vì đây là mục tiêu, nhiệm vụ hàng đầu của cách mạng Việt Nam","Nhằm kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc"],
+    correctAnswer: [0,1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q287",
+    question: "Cụ Hoàng Thị Loan đã có đức tính gì ảnh hưởng tới Hồ Chí Minh?",
+    options: ["Sự yêu thương và vị tha","Từ bi và vị tha","Tần tảo và đảm đang","Lòng nhân hậu và mẫn cảm"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q288",
+    question: "Trong các luận điểm sau đây về văn hóa, luận điểm nào Hồ Chí Minh nói về tính chất của nền văn hóa?",
+    options: ["Văn hóa cũng là một mặt trận","Phải nâng cao trình độ văn hóa của nhân dân","Phải xây dựng một nền văn hóa dân tộc, khoa học và đại chúng","Xây dựng chính trị: dân quyền"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q289",
+    question: "Theo Hồ Chí Minh, trình độ văn hóa của nhân dân nâng cao sẽ giúp cho chúng ta đẩy mạnh công cuộc gì?",
+    options: ["Khôi phục kinh tế, phát triển dân chủ","Phát triển dân chủ","Khôi phục văn hóa","Khôi phục kinh tế"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q290",
+    question: "Theo Hồ Chí Minh, đạo đức mới chỉ có thể được xây dựng trên cơ sở sự tự giác tu dưỡng đạo đức của mỗi người thông qua hoạt động thực tiễn, phải kiên trì rèn luyện như việc gì?",
+    options: ["Việc đánh răng hàng ngày","Việc hít thở hàng ngày","Việc ăn uống hàng ngày","Việc rửa mặt hàng ngày"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q291",
+    question: "Hồ Chí Minh cho rằng đoàn kết có ý nghĩa thế nào? *(Theo Hồ Chí Minh, đoàn kết là điểm nào => Điểm mẹ)*",
+    options: ["Đoàn kết là yêu nước","Đoàn kết là sáng tạo","Đoàn kết là sức mạnh","Đoàn kết là khôn ngoan"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q292",
+    question: "Khi bàn về vấn đề đại đoàn kết toàn dân tộc, Hồ Chí Minh đi đến kết luận có tính tổng kết: \"Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công\". Ý nghĩa của tổng kết này là gì?",
+    options: ["Nói về mục tiêu của đại đoàn kết toàn dân tộc","Nói về hình thức của đại đoàn kết toàn dân tộc","Nói về bản chất của đại đoàn kết toàn dân tộc","Nói về vai trò của đại đoàn kết toàn dân tộc"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q293",
+    question: "Theo Hồ Chí Minh, đặc trưng nổi bật về chính trị của chủ nghĩa xã hội là gì?",
+    options: ["Mọi người được hưởng các quyền tự do dân chủ","Thực hiện một nền dân chủ triệt để","Đảng Cộng sản lãnh đạo","Mọi lợi ích đều từ nhân dân"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q294",
+    question: "Hồ Chí Minh cho rằng đoàn kết quốc tế cần phải làm gì?",
+    options: ["Nêu cao ngọn cờ hoà bình, công lý","Nêu cao ngọn cờ hoà bình, tự do","Nêu cao ngọn cờ hoà bình, bình đẳng","Nêu cao ngọn cờ dân sinh, dân chủ"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q295",
+    question: "Đâu là thực chất của vấn đề dân tộc thuộc địa trong tư tưởng Hồ Chí Minh?",
+    options: ["Đòi quyền tự trị dân tộc","Đòi quyền tự do dân chủ cho nhân dân","Đòi quyền bình đẳng giữa các dân tộc","Đấu tranh giải phóng dân tộc, thành lập nhà nước dân tộc độc lập"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q296",
+    question: "Theo Hồ Chí Minh, \"người cách mạng phải có [..], không có [..] thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân\". Cụm từ nào còn thiếu trong dấu [..]?",
+    options: ["Tài năng và đạo đức","Đạo đức cách mạng","Uy tín cá nhân","Bản lĩnh chính trị"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q297",
+    question: "Theo Hồ Chí Minh, \"người cách mạng phải có [..] thì mới gánh được nặng và đi được xa\". Từ nào còn thiếu trong dấu [..]?",
+    options: ["Đạo đức cách mạng","Phương pháp cách mạng","Trí tuệ","Ý chí cách mạng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q298",
+    question: "Theo Hồ Chí Minh, vai trò của nhân dân là gì?",
+    options: ["Chủ thể của quyền lực","Khách thể của quyền lực","Nguồn gốc của quyền lực","Sức mạnh của quyền lực"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q299",
+    question: "Sức mạnh dân tộc trong tư tưởng Hồ Chí Minh bao gồm những thành tố nào?",
+    options: ["Chủ nghĩa yêu nước và truyền thống văn hóa Việt Nam; tinh thần đoàn kết, ý thức đấu tranh cho độc lập, tự do; và tinh thần quốc tế vô sản","Tinh thần đoàn kết, ý thức đấu tranh cho độc lập, tự do","Ý chí tự lực, tự cường và tinh thần quốc tế vô sản","Chủ nghĩa yêu nước và truyền thống văn hóa Việt Nam; tinh thần đoàn kết, ý thức đấu tranh cho độc lập, tự do; và ý chí tự lực, tự cường"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q300",
+    question: "Theo Hồ Chí Minh, mục tiêu, lý tưởng của Đảng Cộng sản Việt Nam là gì?",
+    options: ["Vì lợi ích của giai cấp công nhân","Xây dựng một nước Việt Nam giàu mạnh","Đảng ta không có mục đích, lý tưởng nào","Phụng sự Tổ quốc, phục vụ nhân dân"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q301",
+    question: "Luận điểm nào sau đây là sai với tư tưởng Hồ Chí Minh về chức năng cơ bản của văn hóa?",
+    options: ["Giải trí cho con người","Bồi dưỡng tư tưởng và tình cảm cao đẹp của con người","Mở rộng hiểu biết, nâng cao dân trí","Bồi dưỡng những phẩm chất, phong cách và lối sống tốt đẹp, lành mạnh, hướng con người đến chân, thiện, mỹ"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q302",
+    question: "Tác phẩm \"Bản án chế độ thực dân Pháp\" của Nguyễn Ái Quốc được xuất bản lần đầu tiên vào năm nào?",
+    options: ["1925","1924","1926","1923"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q303",
+    question: "\"Chúng ta làm cách mệnh thì cũng phải liên lạc với tất cả những đảng cách mệnh trong thế giới để chống lại tư bản và đế quốc chủ nghĩa\". Câu đó được Nguyễn Ái Quốc viết trong tác phẩm nào?",
+    options: ["Trung Quốc và thanh niên Trung Quốc","V.I. Lênin và các dân tộc thuộc địa","Bản án chế độ thực dân Pháp","Đường Cách mệnh"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q304",
+    question: "Nguyễn Ái Quốc đọc \"Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa\" vào thời gian nào?",
+    options: ["7/1920","7/1917","7/1918","7/1922"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q305",
+    question: "Lực lượng làm nền tảng cho khối đại đoàn kết dân tộc theo tư tưởng Hồ Chí Minh là gì?",
+    options: ["Công nhân","Công nhân, nông dân","Học trò, nhà buôn","Công nhân, nông dân, lao động trí óc"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q306",
+    question: "Hồ Chí Minh đến với chủ nghĩa Mác - Lênin và trở thành người cộng sản Việt Nam đầu tiên vào thời gian nào?",
+    options: ["1920","1917","1945","1930"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q307",
+    question: "Chọn câu trả lời đúng nhất với tư tưởng Hồ Chí Minh về vai trò của đại đoàn kết dân tộc? *(Hồ Chí Minh đã khẳng định vị trí, vai trò của đại đoàn kết toàn dân tộc)*",
+    options: ["Đại đoàn kết dân tộc là vấn đề sách lược","Đại đoàn kết dân tộc là vấn đề chiến lược","Đại đoàn kết dân tộc là thủ đoạn chính trị","Đại đoàn kết dân tộc là phương pháp chính trị"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q308",
+    question: "Tư tưởng Hồ Chí Minh được hình thành và phát triển qua mấy giai đoạn?",
+    options: ["5 giai đoạn","6 giai đoạn","3 giai đoạn","4 giai đoạn"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q309",
+    question: "Tư tưởng Hồ Chí Minh được hình thành trong bối cảnh nào?",
+    options: ["Chủ nghĩa xã hội đang trong giai đoạn phát triển","Chủ nghĩa tư bản từ giai đoạn tự do cạnh tranh sang giai đoạn độc quyền","Chủ nghĩa tư bản đang trong giai đoạn hình thành","Chủ nghĩa tư bản đang trong giai đoạn tự do cạnh tranh"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q310",
+    question: "Đại đoàn kết quốc tế trong tư tưởng Hồ Chí Minh được xác định là:",
+    options: ["Một nhân tố thường xuyên và hết sức quan trọng giúp cho cách mạng Việt Nam đi đến thắng lợi hoàn toàn","Có ý nghĩa sống còn đối với cách mạng Việt Nam","Vấn đề cơ bản của cách mạng Việt Nam","Sức mạnh giúp cho dân tộc ta vượt qua mọi thử thách, khó khăn trong dựng nước và giữ nước"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q311",
+    question: "Quan điểm nào sau đây thuộc vấn đề công tác cán bộ theo tư tưởng Hồ Chí Minh?",
+    options: ["Gần dân, học hỏi nhân dân, lắng nghe ý kiến nhân dân","Gần dân, học hỏi nhân dân, lắng nghe ý kiến ngoài đảng","Gần dân, học hỏi nhân dân, lắng nghe ý kiến mọi người","Gần dân, học hỏi nhân dân, lắng nghe ý kiến của mọi tầng lớp"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q312",
+    question: "Trong giai đoạn 1923 - 1924, Quảng Châu Trung Quốc được mệnh danh là:",
+    options: ["Moskva của Phương Đông","Trung tâm của cách mạng vô sản","Thủ Phủ Cộng Sản","Căn cứ quốc tế vô sản"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q313",
+    question: "Phẩm chất nào dưới đây không có trong nhân tố chủ quan dẫn đến hình thành tư tưởng Hồ Chí Minh?",
+    options: ["Một trái tim yêu nước thương dân, sẵn sàng chịu đựng hy sinh","Tư duy độc lập, tự chủ, sáng tạo, đầu óc phê phán tình tường, sáng suốt","Bản lĩnh kiên định, luôn tin vào nhân dân, khiêm tốn, bình dị, ham học hỏi","Ham công danh, phú quý"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q314",
+    question: "Hồ Chí Minh cho rằng, nhà nước của dân, do dân và vì dân phải là nhà nước như thế nào?",
+    options: ["Là nhà nước hợp hiến","Là nhà nước dân chủ","Là nhà nước dân quyền","Là nhà nước toàn dân"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q315",
+    question: "Hồ Chí Minh cho rằng đoàn kết toàn dân để làm gì?",
+    options: ["Phụng sự nhân dân","Phụng sự cách mạng","Phụng sự tổ quốc","Phụng sự xã hội"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q316",
+    question: "Theo Hồ Chí Minh, nền kinh tế mà chúng ta xây dựng phải được tạo lập trên cơ sở:",
+    options: ["Nền nông nghiệp hiện đại","Nền công nghiệp hiện đại","Khoa học kỹ thuật tiên tiến","Chế độ công hữu về tư liệu sản xuất chủ yếu"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q317",
+    question: "Giai đoạn nào sau đây hình thành cơ bản tư tưởng Hồ Chí Minh trong việc tìm thấy con đường cứu nước, giải phóng dân tộc?",
+    options: ["1911 đến 1930","1911 đến 1920","1911 đến 1935","1908-1911"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q318",
+    question: "Hồ Chí Minh được coi là linh hồn của cuộc kháng chiến chống Pháp trong giai đoạn nào?",
+    options: ["1946-1954","1945-1954","1930-1945","1939-1945"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q319",
+    question: "Từ nào còn thiếu trong khẳng định sau? Hồ Chí Minh cho rằng: \"Người cách mạng phải có (...) làm nền tảng, mới hoàn thành được nhiệm vụ cách mạng vẻ vang\".",
+    options: ["Trí tuệ","Phương pháp cách mạng","Đạo đức cách mạng","Ý chí cách mạng"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q320",
+    question: "Khi nói về mặt trận, Hồ Chí Minh cho rằng mặt trận phải được xây dựng như thế nào?",
+    options: ["Phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới sự lãnh đạo của Đảng","Phải được xây dựng trên nền tảng khối liên minh công - trí thức, đặt dưới sự lãnh đạo của trí thức","Phải xây dựng trên nền tảng lợi ích dân tộc, đặt dưới sự lãnh đạo của Nhà nước","Phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới sự lãnh đạo của giai cấp nông dân"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q321",
+    question: "Khi nói về điều kiện hình thành tư tưởng Hồ Chí Minh, điều kiện nào bị viết sai?",
+    options: ["Nhu cầu khách quan và bức thiết do cách mạng Việt Nam đặt ra là muốn cứu nước, phải tìm một con đường cách mạng mới","Quê hương Hồ Chí Minh là mảnh đất giàu truyền thống yêu nước, chống giặc ngoại xâm","Hồ Chí Minh sinh ra trong một gia đình nhà Nho yêu nước, gần gũi nhân dân, cụ thân sinh có tư tưởng thương dân, chủ trương lấy dân làm hậu thuẫn cho mọi cải cách chính trị","Ngay từ khi còn nhỏ ở trong trường, Hồ Chí Minh đã nhận thức được đặc điểm thời đại"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q322",
+    question: "Nguyễn Tất Thành lên tàu Amiran Latusơ Tôrévin ra đi tìm đường cứu nước tại đâu? Vào thời gian nào?",
+    options: ["4/6/1911 tại Bến cảng Nhà Rồng","6/5/1911 tại Bến cảng Nhà Rồng","2/6/1911 tại Sài Gòn","5/6/1911 tại Bến cảng Nhà Rồng"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q323",
+    question: "Theo Hồ Chí Minh, đâu là kẻ thù hung ác nhất của chủ nghĩa xã hội?",
+    options: ["Thói hư, tật xấu","Các lực lượng phản động","Chủ nghĩa cá nhân","Tham ô, lãng phí"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q324",
+    question: "Theo tư tưởng Hồ Chí Minh, để phát huy động lực con người, Đảng cần phải làm gì?",
+    options: ["Phát huy sức mạnh của cả cộng đồng dân tộc và sức mạnh của cá nhân người lao động","Phát huy sức mạnh đoàn kết dân tộc kết hợp với sự giúp đỡ của nhân dân tiến bộ trên thế giới","Kêu gọi toàn dân, động viên toàn dân","Phát huy sức mạnh cá nhân của người Việt Nam ở trong và ngoài nước"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q325",
+    question: "Theo Hồ Chí Minh, nội dung nào không đúng để phát huy động lực con người?",
+    options: ["Phát huy sức mạnh đoàn kết của cả cộng đồng dân tộc","Phát huy sức mạnh của cá nhân con người","Phát huy các yếu tố chính trị, tinh thần","Phát huy trí lực, tài lực và nhân lực của nhân dân"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q326",
+    question: "Tư tưởng văn hoá phương Tây nào sau đây ảnh hưởng đến sự hình thành tư tưởng dân chủ Hồ Chí Minh trước khi người ra đi tìm đường cứu nước?",
+    options: ["Truyền thống văn hoá dân chủ, tiến bộ của Đức","Truyền thống văn hoá dân chủ, tiến bộ của Pháp","Chủ nghĩa thực chứng Hoa Kỳ","Triết học phương Tây"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q327",
+    question: "Theo Hồ Chí Minh, ưu điểm lớn nhất của chủ nghĩa Mác là gì?",
+    options: ["Bản chất cách mạng","Chủ nghĩa nhân đạo triệt để","Phương pháp làm việc biện chứng","Bản chất khoa học"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q328",
+    question: "Liên minh giữa giai cấp công nhân, nông dân và tầng lớp trí thức là do yếu tố nào quyết định?",
+    options: ["Mong muốn của công nhân","Yêu cầu của trí thức","Do đòi hỏi khách quan của công nhân, nông dân và trí thức","Yêu cầu của nông dân"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q329",
+    question: "Yếu tố nào không nằm trong Mặt trận dân tộc thống nhất?",
+    options: ["Nhà nước xã hội chủ nghĩa","Đảng Cộng sản","Nhân sĩ, trí thức tiêu biểu","Các tổ chức chính trị - xã hội"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q330",
+    question: "Trong quá trình lãnh đạo nhà nước, Hồ Chí Minh không nhắc đến việc cần phải đề phòng và khắc phục biểu hiện nào sau đây?",
+    options: ["Tư túng, chia rẽ, kiêu ngạo","Bệnh thành tích","Đặc quyền, đặc lợi","Tham ô, lãng phí, quan liêu"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q331",
+    question: "Theo Hồ Chí Minh, \"chế độ ta là chế độ dân chủ, nghĩa là [..] làm chủ\". Từ nào còn thiếu trong dấu [..]?",
+    options: ["Công nhân","Nhân dân","Công - nông","Nông dân"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q332",
+    question: "Giai đoạn vượt qua thử thách, kiên trì con đường đã xác định cho cách mạng Việt Nam của Hồ Chí Minh được tính từ năm nào đến năm nào?",
+    options: ["Năm 1920 đến 1930","Năm 1945 đến 1969","Năm 1911 đến 1920","Năm 1930 đến 1945"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q333",
+    question: "Đâu là quan niệm về Con người của Hồ Chí Minh?",
+    options: ["Động lực của cách mạng","Vốn quý nhất, nhân tố quyết định thành công của cách mạng","Vốn quý của cách mạng","Vốn quý nhất, nhân tố quan trọng của cách mạng"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q334",
+    question: "Theo Hồ Chí Minh, ưu điểm lớn nhất của học thuyết Khổng Tử là gì?",
+    options: ["Tinh thần lễ nghĩa","Sự tu dưỡng đạo đức cá nhân","Quản lý xã hội bằng đạo đức","Tinh thần hiếu học"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q335",
+    question: "Tư tưởng tôn giáo nào sau đây ảnh hưởng đến sự hình thành tư tưởng Hồ Chí Minh?",
+    options: ["Tư duy, hành động, ứng xử của Phật giáo","Tư duy, hành động, ứng xử của Hồi giáo","Tư duy, hành động, ứng xử của Ấn Độ giáo"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q336",
+    question: "Nguyễn Ái Quốc gửi bản \"Yêu sách của nhân dân Việt Nam\" tới Hội nghị Véc xay vào ngày, tháng, năm nào?",
+    options: ["18/6/1917","18/6/1918","18/6/1919","18/6/1920"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q337",
+    question: "Nguyễn Ái Quốc gửi bản \"Bản yêu sách của nhân dân An Nam\" tới Hội nghị Vécxây, đòi chính phủ Pháp thừa nhận các quyền tự do, dân chủ và bình đẳng của nhân dân Việt Nam vào thời gian nào?",
+    options: ["6/1917","6/1918","6/1919","6/1920"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q338",
+    question: "Việt Nam Độc lập Đồng minh được thành lập vào thời gian nào?",
+    options: ["19/5/1941","19/5/1930","26/3/1941","3/9/1945"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q339",
+    question: "Điểm khác nhau trong tư tưởng về xây dựng nhà nước của Hồ Chí Minh và các bậc tiền nhân trong lịch sử là gì?",
+    options: ["Con đường cứu nước","Phương pháp cứu nước","Tinh thần yêu nước","Dựa vào tài năng, trí tuệ của các vị lãnh đạo"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q340",
+    question: "Theo Hồ Chí Minh, trong Nhà nước vì dân, từ Chủ tịch nước đến công chức bình thường đều phải làm công bộc, làm đầy tớ cho nhân dân chứ không phải làm:",
+    options: ["Tướng","Quan","Quan cách mạng","Trâu, ngựa"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q341",
+    question: "Hồ Chí Minh nhấn mạnh vấn đề nào sau đây trong quan hệ giữa cán bộ nhà nước với nhân dân?",
+    options: ["Kính trọng nhân dân","Tự tôn dân tộc","Nghiêm khắc","Phục tùng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q342",
+    question: "Hồ Chí Minh cho rằng mọi Cán bộ, Đảng viên phải thực hiện nguyên tắc:",
+    options: ["Nói đi đôi với làm","Làm trước, nói sau","Nói trước, làm sau"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q343",
+    question: "Luận điểm \"Không có sự đồng tình ủng hộ của đại đa số nhân dân lao động đối với đội tiền phong của mình tức là đối với giai cấp vô sản, thì cách mạng vô sản không thể thực hiện được\" là của ai?",
+    options: ["C. Mác","Ph. Ăngghen","V.I. Lênin","Hồ Chí Minh"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q344",
+    question: "Hồ Chí Minh nhấn mạnh xây dựng nhà nước trong sạch vững mạnh cần phải:",
+    options: ["Kết hợp giáo dục pháp luật và đạo đức, hình thành pháp quyền nhân nghĩa","Kết hợp giáo dục pháp luật và nhân cách, hình thành pháp quyền nhân nghĩa","Kết hợp giáo dục pháp luật và nghề nghiệp, hình thành pháp quyền nhân nghĩa"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q345",
+    question: "Chọn phương án trả lời không đúng với tư tưởng Hồ Chí Minh về nhà nước vì dân?",
+    options: ["Phụng sự nhân dân","Chăm lo mọi mặt đời sống nhân dân","Do dân làm chủ, tổ chức nên","Đem lại lợi ích cho dân"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q346",
+    question: "Hồ Chí Minh tiếp thu tư tưởng về đạo đức của Nho giáo trong việc xây dựng, đổi mới, phát triển tư tưởng đạo đức trong công tác gì?",
+    options: ["Xây dựng con người mới","Xây dựng Đảng về đạo đức","Xây dựng văn hóa mới","Xây dựng xã hội mới"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q347",
+    question: "Để đảm bảo thực hiện thắng lợi chủ nghĩa xã hội ở Việt Nam trong thời kỳ quá độ, theo Hồ Chí Minh phải làm gì?",
+    options: ["Giữ vững và tăng cường vai trò lãnh đạo của Đảng, nâng cao vai trò quản lý của nhà nước","Phát huy vai trò làm chủ của Đảng, nâng cao vai trò quản lý của nhà nước","Phát huy tính tích cực, chủ động của đội ngũ cán bộ, quản lý, kể cả các cá nhân đang định cư ở nước ngoài","Giữ vững tăng cường vai trò quản lý của Nhà nước; xây dựng đội ngũ cán bộ đủ đức và tài"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q348",
+    question: "Đâu không phải là nguyên tắc xây dựng chủ nghĩa xã hội trong thời kỳ quá độ theo tư tưởng Hồ Chí Minh?",
+    options: ["Mọi tư tưởng hành động phải tuân thủ tuyệt đối theo chủ nghĩa Mác - Lênin","Xây đi đôi với chống","Phải giữ vững được độc lập dân tộc","Phải đoàn kết, học tập kinh nghiệm từ thực tiễn"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q349",
+    question: "Luận điểm: \"Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp ở mọi nơi. Đảng có vững thì cách mạng mới thành công, cũng như người cầm lái có vững thuyền mới chạy\" được trích từ tác phẩm nào của Hồ Chí Minh?",
+    options: ["Bản án chế độ thực dân Pháp","Đường kách mệnh","Con rồng tre","Thường thức chính trị"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q350",
+    question: "Luận điểm sáng tạo của Hồ Chí Minh về cách mạng thuộc địa dựa trên cơ sở nào?",
+    options: ["Tinh thần đấu tranh cách mạng của các dân tộc ở các nước thuộc địa","Thuộc địa là khâu yếu nhất trong sợi dây xích của chủ nghĩa đế quốc","Sự thức tỉnh của các dân tộc thuộc địa","Tinh thần đấu tranh của giai cấp vô sản ở chính quốc"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q351",
+    question: "Nội dung nào sau đây thuộc luận điểm sáng tạo của Hồ Chí Minh về vấn đề Đảng cộng sản?",
+    options: ["Về quy luật ra đời của Đảng Cộng sản Việt Nam","Về vấn đề tổ chức của Đảng Cộng sản Việt Nam","Về nguyên tắc xây dựng Đảng Cộng sản Việt Nam"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q352",
+    question: "Theo Hồ Chí Minh, mọi người phải hiểu và tuyệt đối chấp hành pháp luật, bất kể người đó giữ cương vị nào. Vì thần linh pháp quyền là:",
+    options: ["Sức mạnh do thần linh và vì con người","Sức mạnh do con người và vì con người","Sức mạnh do con người và vì thần linh"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q353",
+    question: "Vận dụng tư tưởng Hồ Chí Minh trong chiến lược đoàn kết quốc tế thì bộ phận nào là hạt nhân đoàn kết dân tộc và đoàn kết quốc tế?",
+    options: ["Đảng Cộng sản Việt Nam","Nhà nước","Đoàn thanh niên","Mặt trận tổ quốc"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q354",
+    question: "Phạm vi vận dụng tư tưởng Hồ Chí Minh là đối tượng nào?",
+    options: ["Đối với cách mạng Việt Nam","Đối với các dân tộc đang bị xâm lược và áp bức trên toàn thế giới","Đối với mọi quốc gia, dân tộc","Đối với cách mạng giải phóng dân tộc ở Việt Nam"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q355",
+    question: "Nội dung nào không đúng về giá trị lý luận và thực tiễn của Tư tưởng Hồ Chí Minh về vấn đề dân tộc và cách mạng giải phóng dân tộc?",
+    options: ["Làm phong phú học thuyết Mác-Lênin về cách mạng thuộc địa","Soi đường thắng lợi cho cách mạng giải phóng dân tộc ở Việt Nam","Nền tảng tư tưởng và kim chỉ nam cho mọi hành động của cách mạng Việt Nam","Là tiền đề cho thắng lợi của Cách mạng tháng 8"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q356",
+    question: "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn thắng lợi phải có cái gì? *(cách mạng xã hội chủ nghĩa phải tiến hành do ai lãnh đạo?)*",
+    options: ["Có một cá nhân xuất sắc lãnh đạo","Có Đảng của giai cấp công nhân lãnh đạo","Có tổ chức đoàn thể lãnh đạo","Có tiềm lực mạnh"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q357",
+    question: "Theo Hồ Chí Minh, nhà nước do dân thể hiện ở chỗ nào?",
+    options: ["Do nhân dân quyết định","Do nhân dân chi phối","Do nhân dân áp đặt","Do nhân dân kiểm soát"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q358",
+    question: "Trong nghiên cứu tư tưởng Hồ Chí Minh, cần quán triệt quan điểm nào dưới đây?",
+    options: ["Quan điểm bộ phận","Quan điểm chỉnh thể","Quan điểm toàn diện","Quan điểm toàn cục"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q359",
+    question: "Quan điểm nào dưới đây thuộc về bản chất của chủ nghĩa xã hội trong tư tưởng Hồ Chí Minh như thế nào?",
+    options: ["Có nền kinh tế, văn hóa, xã hội, đạo đức phát triển","Có nền kinh tế, văn hóa, và con người phát triển","Có nền kinh tế, văn hóa phát triển","Có nền kinh tế và đạo đức phát triển"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q360",
+    question: "Theo Hồ Chí Minh, nhà nước vì dân là nhà nước như thế nào? / Theo Hồ Chí Minh, nhà nước vì dân là:",
+    options: ["Nhà nước phải phụng sự nhân dân","Nhà nước phải phụng sự giai cấp cầm quyền","Nhà nước phải phụng sự Đảng Cộng sản"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q361",
+    question: "Theo Hồ Chí Minh, Nhà nước vì dân là một Nhà nước lấy lợi ích chính đáng của nhân dân làm mục tiêu, tất cả đều vì lợi ích của nhân dân, ngoài ra:",
+    options: ["Không có bất cứ một lợi ích nào khác","Chỉ có lợi ích tự thân của Nhà nước","Không có bất cứ lợi ích không chính đáng nào khác"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q362",
+    question: "Quan điểm nào dưới đây thuộc về bản chất của CNXH trong tư tưởng Hồ Chí Minh?",
+    options: ["Là chế độ còn một ít người bóc lột","Là chế độ không còn người bóc lột người","Là chế độ người bóc lột bị khinh rẻ","Là chế độ người bóc lột được thừa nhận"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q363",
+    question: "Nguyên tắc cơ bản nào sau đây cần phải quán triệt trong nghiên cứu tư tưởng Hồ Chí Minh?",
+    options: ["Quan điểm kế thừa và phát triển","Quan điểm kế thừa và toàn diện","Quan điểm cách mạng và cụ thể"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q364",
+    question: "Tiền đề tư tưởng, lí luận dẫn đến sự hình thành tư tưởng Hồ Chí Minh là:",
+    options: ["Giá trị truyền thống văn hiến Việt Nam","Giá trị truyền thống văn hóa Việt Nam","Giá trị tư tưởng Việt Nam","Giá trị truyền thống lễ tiết của Việt Nam"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q365",
+    question: "Nguyên tắc cơ bản trong nghiên cứu tư tưởng Hồ Chí Minh là gì? *(chuẩn 100%)*",
+    options: ["Thống nhất giữa lí luận và thực tiễn","Thống nhất giữa tính đảng và tính thực tiễn","Thống nhất giữa tính khoa học và thực tiễn","Thống nhất giữa tính khoa học và tính đảng"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q366",
+    question: "Đâu là đáp án đúng nhất trong các phương án bên dưới?",
+    options: ["Cùng với chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh là nền tảng tư tưởng và kim chỉ nam cho hành động của Đảng ta","Tư tưởng Hồ Chí Minh là nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng","Chủ nghĩa Mác - Lênin là nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng","Chủ nghĩa Mác - Lênin là nền tảng tư tưởng, kim chỉ nam cho hành động của tất cả các nước trên thế giới"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q367",
+    question: "Theo văn kiện Đại hội XI của Đảng Cộng sản Việt Nam (2011). Tư tưởng Hồ Chí Minh là tư tưởng về những vấn đề gì?",
+    options: ["Những vấn đề cơ bản của cách mạng Việt Nam","Những vấn đề cơ bản của cách mạng thế giới","Những vấn đề cơ bản của dân tộc","Những vấn đề cơ bản của nhân loại"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q368",
+    question: "Lực lượng đoàn kết quốc tế theo Hồ Chí Minh cần phải đoàn kết với đối tượng nào?",
+    options: ["Giai cấp công nhân, lực lượng xã hội chủ nghĩa, phong trào cộng sản và công nhân quốc tế, với các dân tộc thuộc địa bị áp bức và các lực lượng tiến bộ trên thế giới","Giai cấp nông dân, lực lượng xã hội chủ nghĩa, phong trào cộng sản và công nhân quốc tế, với các dân tộc thuộc địa bị áp bức và các lực lượng tiến bộ trên thế giới","Giai cấp lao động, lực lượng xã hội chủ nghĩa, phong trào cộng sản và công nhân quốc tế, với các dân tộc thuộc địa bị áp bức và các lực lượng tiến bộ trên thế giới","Tầng lớp trí thức, lực lượng xã hội chủ nghĩa, phong trào cộng sản và công nhân quốc tế, với các dân tộc thuộc địa bị áp bức và các lực lượng tiến bộ trên thế giới"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q369",
+    question: "Theo Hồ Chí Minh, căn bệnh nào là một thứ vi trùng rất độc, đẻ ra hàng trăm thứ bệnh nguy hiểm? *(căn bệnh nguy hiểm nhất đối với cán bộ nhà nước)*",
+    options: ["Chủ nghĩa tư bản","Chủ nghĩa cá nhân","Sự lười biếng","Thói quen và truyền thống lạc hậu"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q370",
+    question: "Nói về đạo đức cách mạng, Hồ Chí Minh chỉ rõ: \"Vì muốn giải phóng cho dân tộc, giải phóng cho loài người là một công việc to tát, mà tự mình không có đạo đức, không có căn bản, tự mình đã hủ hóa, xấu xa thì làm nổi việc gì\". Câu nói trên của Hồ Chí Minh đề cập đến vấn đề gì sau đây?",
+    options: ["Vai trò và sức mạnh của đạo đức","Chuẩn mực và nguyên tắc xây dựng đạo đức mới","Nguyên tắc xây dựng đạo đức mới","Các phẩm chất đạo đức mới"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q371",
+    question: "Điền vào chỗ trống: Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam đưa ra định nghĩa: \"Tư tưởng Hồ Chí Minh là... toàn diện sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam\"",
+    options: ["Hệ thống các quan điểm","Hệ thống các luận điểm","Hệ thống các tư tưởng","Hệ thống các vấn đề"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q372",
+    question: "Truyền thống nào của dân tộc Việt Nam là nguồn gốc hình thành tư tưởng Hồ Chí Minh?",
+    options: ["Truyền thống yêu nước, lạc quan, yêu đời, có niềm tin vào chính nghĩa, tin vào sức mạnh của bản thân và dân tộc","Truyền thống nhân nghĩa, thủy chung, lạc quan, yêu đời, có niềm tin vào chính nghĩa, tin vào sức mạnh của bản thân và dân tộc","Truyền thống lạc quan, yêu đời, có niềm tin vào chính nghĩa, tin vào sức mạnh của bản thân và dân tộc","Truyền thống đoàn kết, lạc quan, yêu đời, có niềm tin vào chính nghĩa, tin vào sức mạnh của bản thân và dân tộc"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q373",
+    question: "Theo quan điểm của Hồ Chí Minh, phẩm chất đạo đức nào là quan trọng nhất, bao trùm nhất, chi phối các phẩm chất khác?",
+    options: ["Cần kiệm, liêm, chính, chí công vô tư","Có tinh thần quốc tế trong sáng","Có tình yêu thương con người, sống có tình, có nghĩa","Trung với nước, hiếu với dân"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q374",
+    question: "Hồ Chí Minh cho rằng phát triển giáo dục để làm gì?",
+    options: ["Nâng cao dân trí","Phát triển lâu dài","Chuẩn bị nhân tài","Mục tiêu bền vững"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q375",
+    question: "Theo quan điểm của Hồ Chí Minh, nội dung xây dựng con người cần quan tâm xây dựng con người toàn diện như thế nào?",
+    options: ["Vừa \"hồng\" vừa \"chuyên\"","Vừa \"chuyên\" vừa \"cần\"","Vừa \"cần\" vừa \"kiệm\"","Vừa \"kiệm\" vừa \"liêm\""],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q376",
+    question: "Theo Hồ Chí Minh, động lực chủ yếu để phát triển đất nước là gì?",
+    options: ["Sức mạnh đoàn kết của cả cộng đồng dân tộc","Sức mạnh của cá nhân con người","Sức mạnh thời đại","Vai trò lãnh đạo của Đảng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q377",
+    question: "Theo Hồ Chí Minh, Liêm là luôn tôn trọng của công và của dân, đồng thời phải như thế nào?",
+    options: ["\"Trong sạch, không tham lam\" tiền của, địa vị, danh tiếng","\"Trong sáng, không tham lam\" tiền của, địa vị, danh tiếng","\"Trong sạch, không ham muốn\" tiền của, địa vị, danh tiếng","\"Trong sạch, không đòi hỏi\" tiền của, địa vị, danh tiếng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q378",
+    question: "Theo tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc được xác định là nhiệm vụ như thế nào?",
+    options: ["Là nhiệm vụ mang tính lịch sử của cách mạng","Là nhiệm vụ quan trọng nhất của cách mạng","Là nhiệm vụ hàng đầu của cách mạng","Là mục tiêu của cách mạng"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q379",
+    question: "Trong tư tưởng Hồ Chí Minh, nhân dân được xác định vị trí như thế nào của cách mạng?",
+    options: ["Là động lực của cách mạng","Là mục tiêu của cách mạng","Là người bạn đường của cách mạng","Vừa là mục tiêu vừa là động lực của cách mạng"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q380",
+    question: "Hồ Chí Minh cho rằng xây dựng văn hóa mới trước hết cần phải làm gì?",
+    options: ["Phải xây dựng xã hội dân chủ","Tiếp thu tất cả các văn hóa du nhập","Tư tưởng phải được nuôi dưỡng","Tư tưởng phải được tự do"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q381",
+    question: "Khi nói về Hồ Chí Minh, báo Uruquay viết:",
+    options: ["Ông có một trái tim bao la như vũ trụ và tình yêu trẻ thơ vô bờ gắn bó","Ông người có tình cảm bao la như vũ trụ và tình yêu trẻ thơ vô bờ bến","Ông có một trái tim như vũ trụ và tình yêu trẻ thơ vô bờ bến"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q382",
+    question: "Theo Hồ Chí Minh, người cách mạng phải có đạo đức, không có đạo đức thì sẽ như thế nào?",
+    options: ["Dù tài giỏi mấy cũng bỏ đi","Dù tài giỏi mấy cũng không đáng dùng","Dù tài giỏi mấy cũng không lãnh đạo được nhân dân","Dù tài giỏi mấy cũng không xứng đáng là người cách mạng"],
+    correctAnswer: [2],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q383",
+    question: "Theo Hồ Chí Minh, phải kiên quyết khắc phục kịp thời các phản động lực trong con người và tổ chức. Đó là: *(=> Diệt trừ chủ nghĩa cá nhân => xây dựng con người mới xã hội chủ nghĩa)*",
+    options: ["Chủ nghĩa cá nhân","Chủ nghĩa vị kỷ","Phong cách tiểu tư sản","Phong cách tư sản"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q384",
+    question: "Tác phẩm đầu tiên của Hồ Chí Minh đề cập đến đạo đức cách mạng là tác phẩm nào?",
+    options: ["Điều lệ vắn tắt","Đường Cách mệnh","Bản án chế độ thực dân Pháp","Tuyên ngôn độc lập"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q385",
+    question: "Theo Hồ Chí Minh, vi trùng rất độc này đẻ ra... không dám đổi mới sáng tạo. Người đang đề cập đến vấn đề gì?",
+    options: ["Chủ nghĩa cá nhân","Đế quốc","Chủ nghĩa tư bản","Giặc đói"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q386",
+    question: "Hồ Chí Minh cho rằng khuyết điểm của thanh niên là gì?",
+    options: ["Chuộng hình thức","Chuộng tự do","Chuộng lợi","Chuộng bề ngoài"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q387",
+    question: "Theo Hồ Chí Minh, trung với nước là tuyệt đối trung thành với sự nghiệp dựng nước và giữ nước, trung thành với con đường đi lên của đất nước; là suốt đời phấn đấu cho ai?",
+    options: ["Đảng, cho cách mạng","Nhà nước, cho cách mạng","Dân tộc, cho cách mạng","Cách mạng, quần chúng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q388",
+    question: "Hồ Chí Minh cho rằng cán bộ muốn hướng dẫn nhân dân phải như thế nào?",
+    options: ["Làm mực thước cho nhân dân bắt chước","Làm gương cho nhân dân","Làm mô hình cho dân theo","Làm quan cách mạng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q389",
+    question: "Lối sống ích kỷ, chỉ biết có riêng mình, thu vén cho riêng mình, chỉ thấy công lao của mình mà quên công lao của người khác. Theo Hồ Chí Minh là gì?",
+    options: ["Chủ nghĩa cá nhân","Chủ nghĩa vị kỷ","Chủ nghĩa tư bản","Phong cách tiểu tư sản"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q390",
+    question: "Hồ Chí Minh cho rằng văn hóa có tính:",
+    options: ["Dân tộc, khoa học và đại chúng","Dân tộc, khoa học và nhân dân","Dân tộc, khoa học và nhân bản"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q391",
+    question: "Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc phải biến thành sức mạnh vật chất, trở thành lực lượng vật chất có tổ chức. Tổ chức đó chính là: / Để có thể biến sức mạnh tinh thần đoàn kết thành sức mạnh vật chất, theo Hồ Chí Minh cần xây dựng tổ chức nào?",
+    options: ["Đảng Cộng sản","Quân đội","Nhà nước","Mặt trận dân tộc thống nhất"],
+    correctAnswer: [3],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q392",
+    question: "Theo Hồ Chí Minh, chí công vô tư là nêu cao chủ nghĩa tập thể, trừ bỏ vấn đề gì?",
+    options: ["Chủ nghĩa cá nhân","Chủ nghĩa tư nhân","Chủ nghĩa tư bản","Chủ nghĩa vị kỷ"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q393",
+    question: "Theo Tư tưởng Hồ Chí Minh, văn hóa có mấy chức năng chủ yếu?",
+    options: ["Hai","Ba","Bốn","Năm"],
+    correctAnswer: [1],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q394",
+    question: "Hồ Chí Minh cho rằng xây dựng nhà nước trong sạch vững mạnh cần phải làm gì? *(Để tăng cường tính nghiêm minh của pháp luật => \"đức trị\" và \"pháp trị\")*",
+    options: ["Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức cách mạng","Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức cán bộ","Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức quần chúng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q395",
+    question: "Hồ Chí Minh nhìn nhận con người như điều gì? / Con người trong quan điểm của Hồ Chí Minh được nhìn nhận như một:",
+    options: ["Chỉnh thể","Tế bào","Xã hội","Cộng đồng"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q396",
+    question: "Hồ Chí Minh cho rằng:",
+    options: ["Văn hoá vừa là mục tiêu, vừa là động lực của cách mạng => chăm lo đời sống vật chất và tinh thần của nhân dân","Văn hoá vừa là cơ sở, vừa là động lực của cách mạng => chăm lo đời sống vật chất và tinh thần của nhân dân","Văn hoá vừa là mục tiêu, vừa là nhân tố quyết định của cách mạng => chăm lo đời sống vật chất và tinh thần của nhân dân"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q397",
+    question: "Theo Hồ Chí Minh cho rằng đạo đức cách mạng không phải là điều gì?",
+    options: ["Từ trên trời sa xuống","Phẩm chất vốn có","Tự nhiên mà có","Có sẵn trong tự nhiên"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
+  {
+    id: "q398",
+    question: "Hồ Chí Minh chỉ ra nguyên tắc xây dựng mặt trận là gì?",
+    options: ["Mặt trận phải hoạt động theo nguyên tắc hiệp thương dân chủ","Mặt trận phải hoạt động theo nguyên tắc hiệp thương dân quyền","Mặt trận phải hoạt động theo nguyên tắc hiệp thương quần chúng","Mặt trận phải hoạt động theo nguyên tắc hiệp thương nhân dân"],
+    correctAnswer: [0],
+    explanation: "Đây là kiến thức quan trọng về tư tưởng Hồ Chí Minh cần ghi nhớ.",
+    points: 10
+  },
 ];
