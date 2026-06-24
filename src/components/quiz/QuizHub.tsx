@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { quizQuestions, QuizQuestion } from "@/data/quizData";
+import { QuizQuestion, QuizBank, getQuizByBank } from "@/data/quizData";
 import { QuizStart } from "./QuizStart";
 import { QuizPlay } from "./QuizPlay";
 import { QuizResult } from "./QuizResult";
@@ -19,8 +19,9 @@ export const QuizHub: React.FC<QuizHubProps> = ({ onGoToTimeline }) => {
   const [finalCorrectCount, setFinalCorrectCount] = React.useState(0);
 
   // Initialize and shuffle quiz questions
-  const startQuiz = (count: number) => {
-    const shuffled = shuffleArray(quizQuestions).slice(0, count);
+  const startQuiz = (count: number, bank: QuizBank) => {
+    const bankQuestions = getQuizByBank(bank);
+    const shuffled = shuffleArray(bankQuestions).slice(0, count);
     setQuestions(shuffled);
     setStep("play");
   };

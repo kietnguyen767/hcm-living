@@ -2,7 +2,8 @@ import * as React from "react";
 import { ArrowLeft, ArrowRight, BookOpen, Check, Search, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { quizQuestions } from "@/data/quizData";
+import { QuizBank, getQuizByBank } from "@/data/quizData";
+import { cn } from "@/lib/utils";
 
 interface QuizReviewProps {
   onBack: () => void;
@@ -11,15 +12,17 @@ interface QuizReviewProps {
 export const QuizReview: React.FC<QuizReviewProps> = ({ onBack }) => {
   const [selectedId, setSelectedId] = React.useState<string | null>(null);
   const [searchQuery, setSearchQuery] = React.useState("");
+  const [selectedBank, setSelectedBank] = React.useState<QuizBank>('hcm');
 
   const filteredQuestions = React.useMemo(() => {
-    if (!searchQuery.trim()) return quizQuestions;
+    const bankQuestions = getQuizByBank(selectedBank);
+    if (!searchQuery.trim()) return bankQuestions;
     const query = searchQuery.toLowerCase();
-    return quizQuestions.filter(q => 
+    return bankQuestions.filter(q => 
       q.question.toLowerCase().includes(query) || 
       q.options.some(opt => opt.toLowerCase().includes(query))
     );
-  }, [searchQuery]);
+  }, [searchQuery, selectedBank]);
 
   React.useEffect(() => {
     if (!selectedId) return;
@@ -76,6 +79,43 @@ export const QuizReview: React.FC<QuizReviewProps> = ({ onBack }) => {
         </div>
       </div>
 
+      {/* Bank Filter Tabs */}
+      <div className="flex flex-wrap gap-2 mb-6 shrink-0">
+        <button
+          onClick={() => setSelectedBank('hcm')}
+          className={cn(
+            "px-4 py-1.5 rounded-full border text-sm font-medium transition-all",
+            selectedBank === 'hcm' 
+              ? "bg-brand-primary text-white border-brand-primary shadow-sm"
+              : "bg-brand-surface border-brand-outline/40 text-brand-on-surface-variant hover:border-brand-primary/40"
+          )}
+        >
+          Hồ Chí Minh (398)
+        </button>
+        <button
+          onClick={() => setSelectedBank('mln')}
+          className={cn(
+            "px-4 py-1.5 rounded-full border text-sm font-medium transition-all",
+            selectedBank === 'mln' 
+              ? "bg-brand-primary text-white border-brand-primary shadow-sm"
+              : "bg-brand-surface border-brand-outline/40 text-brand-on-surface-variant hover:border-brand-primary/40"
+          )}
+        >
+          Mác - Lênin (400)
+        </button>
+        <button
+          onClick={() => setSelectedBank('all')}
+          className={cn(
+            "px-4 py-1.5 rounded-full border text-sm font-medium transition-all",
+            selectedBank === 'all' 
+              ? "bg-brand-primary text-white border-brand-primary shadow-sm"
+              : "bg-brand-surface border-brand-outline/40 text-brand-on-surface-variant hover:border-brand-primary/40"
+          )}
+        >
+          Tất cả (798)
+        </button>
+      </div>
+
       <div className="flex-1 overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-brand-outline/50 scrollbar-track-transparent">
         {filteredQuestions.length === 0 ? (
           <div className="flex flex-col items-center justify-center h-full text-brand-on-surface-variant/60">
@@ -85,7 +125,8 @@ export const QuizReview: React.FC<QuizReviewProps> = ({ onBack }) => {
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-6">
             {filteredQuestions.map((q, idx) => {
-              const originalIdx = quizQuestions.findIndex(orig => orig.id === q.id);
+              const currentBankQuestions = getQuizByBank(selectedBank);
+              const displayIdx = currentBankQuestions.findIndex(orig => orig.id === q.id) + 1;
               
               return (
                 <motion.div 
@@ -95,7 +136,7 @@ export const QuizReview: React.FC<QuizReviewProps> = ({ onBack }) => {
                   className="bg-brand-surface border border-brand-outline/50 rounded-xl p-5 shadow-sm flex flex-col cursor-pointer hover:shadow-md hover:border-brand-primary/40 transition-all hover:-translate-y-1"
                 >
                   <h3 className="text-brand-primary font-bold mb-3 flex gap-2">
-                    <span className="shrink-0 text-brand-secondary">Câu {originalIdx + 1}:</span>
+                    <span className="shrink-0 text-brand-secondary">Câu {displayIdx}:</span>
                     <span>{q.question}</span>
                   </h3>
                   <div className="pl-2 sm:pl-4 space-y-2 mb-4 border-l-2 border-brand-outline/30 flex-1">
@@ -146,14 +187,15 @@ export const QuizReview: React.FC<QuizReviewProps> = ({ onBack }) => {
               </button>
 
               {(() => {
-                const q = quizQuestions.find(q => q.id === selectedId);
+                const currentBankQuestions = getQuizByBank(selectedBank);
+                const q = currentBankQuestions.find(q => q.id === selectedId);
                 if (!q) return null;
-                const idx = quizQuestions.findIndex(q => q.id === selectedId);
+                const displayIdx = currentBankQuestions.findIndex(orig => orig.id === q.id) + 1;
                 
                 return (
                   <div className="flex flex-col gap-8 mt-2">
                     <h3 className="text-2xl sm:text-3xl text-brand-primary font-bold font-serif leading-relaxed flex gap-3">
-                      <span className="shrink-0 text-brand-secondary">Câu {quizQuestions.findIndex(orig => orig.id === q.id) + 1}:</span>
+                      <span className="shrink-0 text-brand-secondary">Câu {displayIdx}:</span>
                       <span>{q.question}</span>
                     </h3>
                     
